@@ -1,0 +1,23 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "AllowWriteToOutputPrefix",
+      "Effect": "Allow",
+      "Action": [
+        "s3:PutObject",
+        "s3:AbortMultipartUpload"
+      ],
+      "Resource": "arn:aws:s3:::omc-flywheel-data-us-east-1-prod/cleanroom_data/support_files/er-idmap-output/*"
+    },
+    {
+      "Sid": "AllowListBucket",
+      "Effect": "Allow",
+      "Action": [
+        "s3:ListBucket",
+        "s3:GetBucketLocation"
+      ],
+      "Resource": "arn:aws:s3:::omc-flywheel-data-us-east-1-prod"
+    }
+  ]
+}

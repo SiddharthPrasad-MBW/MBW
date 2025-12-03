@@ -1,0 +1,17 @@
+{
+  "schemaName": "ACX_SCHEMA",
+  "mappedInputFields": [
+    {
+      "fieldName": "customer_user_id",
+      "type": "UNIQUE_ID",
+      "matchKey": "AML",
+      "hashed": false
+    },
+    {
+      "fieldName": "email",
+      "type": "EMAIL_ADDRESS",
+      "matchKey": "EMAIL",
+      "hashed": false
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "workflowName": "ACX_to_AMC_AXM_v1",
+  "inputSourceConfig": [
+    { "inputSourceARN": "arn:aws:entityresolution:us-east-1:239083076653:idnamespace/ACXIdNamespace", "type": "SOURCE" },
+    { "inputSourceARN": "arn:aws:entityresolution:us-east-1:921290734397:idnamespace/amc-id-namespace", "type": "TARGET" }
+  ],
+  "idMappingTechniques": {
+    "idMappingType": "RULE_BASED",
+    "ruleBasedProperties": {
+      "ruleDefinitionType": "TARGET",
+      "attributeMatchingModel": "ONE_TO_ONE",
+      "recordMatchingModel": "ONE_SOURCE_TO_ONE_TARGET",
+      "rules": [
+        { "ruleName": "Exact_AXM", "matchingKeys": ["AXM"] }
+      ]
+    }
+  },
+  "outputSourceConfig": [
+    { "outputS3Path": "s3://omc-flywheel-data-us-east-1-prod/er-idmap-output/" }
+  ],
+  "roleArn": "arn:aws:iam::239083076653:role/OMC_ER_IdMapRole"
+}

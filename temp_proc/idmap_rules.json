@@ -1,0 +1,17 @@
+{
+  "idMappingType": "RULE_BASED",
+  "ruleBasedProperties": {
+    "ruleDefinitionType": "TARGET",
+    "attributeMatchingModel": "ONE_TO_ONE",
+    "recordMatchingModel": "ONE_SOURCE_TO_ONE_TARGET",
+    "rules": [
+      {
+        "ruleName": "Exact_ACX_to_AXM",
+        "matchType": "EXACT",
+        "attributeMatchingProperties": [
+          { "sourceAttribute": "customer_user_id", "targetAttribute": "AXM" }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "schemaName": "ACX_SCHEMA",
+  "mappedInputFields": [
+    {
+      "fieldName": "row_id",
+      "type": "UNIQUE_ID"
+    },
+    {
+      "fieldName": "customer_user_id",
+      "type": "STRING",
+      "matchKey": "AXM",
+      "hashed": false
+    }
+  ]
+}

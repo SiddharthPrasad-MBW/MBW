@@ -1,0 +1,21 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "AllowCleanRoomsAMC",
+      "Effect": "Allow",
+      "Principal": { "Service": "cleanrooms.amazonaws.com" },
+      "Action": [
+        "entityresolution:GetIdNamespace",
+        "entityresolution:ListIdNamespaces",
+        "entityresolution:StartIdMappingJob"
+      ],
+      "Resource": "arn:aws:entityresolution:us-east-1:239083076653:idnamespace/ACXIdNamespace",
+      "Condition": {
+        "StringEquals": {
+          "aws:SourceAccount": "921290734397"
+        }
+      }
+    }
+  ]
+}

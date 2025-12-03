@@ -1,0 +1,20 @@
+{
+  "idNamespaceName": "ACXIdNamespace",
+  "description": "ACX unique customer identifiers for Clean Rooms joins",
+  "roleArn": "arn:aws:iam::239083076653:role/omc-flywheel-prod-ER-SourceIdNamespaceRole",
+  "inputSourceConfig": [
+    {
+      "inputSourceARN": "arn:aws:glue:us-east-1:239083076653:table/omc_flywheel_prod/part_addressable_ids_er",
+      "schemaName": "ACX_SCHEMA"
+    }
+  ],
+  "idMappingWorkflowProperties": [
+    {
+      "idMappingType": "RULE_BASED",
+      "ruleBasedProperties": {
+        "ruleDefinitionTypes": ["TARGET"],
+        "attributeMatchingModel": "ONE_TO_ONE"
+      }
+    }
+  ]
+}
