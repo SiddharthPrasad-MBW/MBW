@@ -1,0 +1,1768 @@
+IBE_01,customer_user_id,Customer User ID
+IBE_01,ibe1802,Family Ties - Adult with Senior Parent - Person
+IBE_01,ibe1900,College Year Grade Level
+IBE_01,ibe1901,Potential College Student
+IBE_01,ibe1902,High School Graduation Year
+IBE_01,ibe1903,College Student Major
+IBE_01,ibe1904,Student Commuter Flag
+IBE_01,ibe1905,College Graduation Year - Undergraduate
+IBE_01,ibe1906,College Graduation Year - Graduate
+IBE_01,ibe1907,Recent Graduate
+IBE_01,ibe2005,Women's Plus Sizes
+IBE_01,ibe2022,Category - Apparel - Women's
+IBE_01,ibe2024,Super Category - Arts and Antiques
+IBE_01,ibe2025,"Super Category - Automotive
+IBE_01,ibe2026,Super Category - Books and Music
+IBE_01,ibe2029,Super Category - Food and Beverage
+IBE_01,ibe2030,Super Category - Health and Beauty
+IBE_01,ibe2031,Super Category - Home Furnishing
+IBE_01,ibe2033,Category - Music
+IBE_01,ibe2058_01,Credit Card Use - American Express - Premium
+IBE_01,ibe2058_02,Credit Card Use - American Express - Regular
+IBE_01,ibe2059_01,Credit Card Use - Discover - Premium
+IBE_01,ibe2059_02,Credit Card Use - Discover - Regular
+IBE_01,ibe2060_01,Credit Card Use - Gasoline or Retail Card - Premium
+IBE_01,ibe2060_02,Credit Card Use - Gasoline or Retail Card - Regular
+IBE_01,ibe2061_01,Credit Card Use - Mastercard - Premium
+IBE_01,ibe2061_02,Credit Card Use - Mastercard - Regular
+IBE_01,ibe2062_01,Credit Card Use - Visa - Premium
+IBE_01,ibe2062_02,Credit Card Use - Visa - Regular
+IBE_01,ibe2076_01,Causes Supported Financially - Charitable
+IBE_01,ibe2076_02,Causes Supported Financially - Animal Welfare
+IBE_01,ibe2076_03,Causes Supported Financially - Arts or Cultural
+IBE_01,ibe2076_04,Causes Supported Financially - Childrens
+IBE_01,ibe2076_05,Causes Supported Financially - Environment or Wildlife
+IBE_01,ibe2076_06,Causes Supported Financially - Health
+IBE_01,ibe2076_07,Causes Supported Financially - International Aid
+IBE_01,ibe2076_08,Causes Supported Financially - Political
+IBE_01,ibe2076_09,Causes Supported Financially - Politically Conservative
+IBE_01,ibe2076_10,Causes Supported Financially - Politically Liberal
+IBE_01,ibe2076_11,Causes Supported Financially - Religious
+IBE_01,ibe2076_12,Causes Supported Financially - Veterans
+IBE_01,ibe2076_13,Causes Supported Financially - Other
+IBE_01,ibe2077,Auto Enthusiast
+IBE_01,ibe2100,Ethnic Group
+IBE_01,ibe2205,Health - Homeopathic Interest in Household
+IBE_01,ibe2350,Business Owner
+IBE_01,ibe2351,Single Parent
+IBE_01,ibe2354,Life Insurance Policy Owner
+IBE_01,ibe2356,Veteran
+IBE_01,ibe2360,Occupation - Detail - Person
+IBE_01,ibe2403_01,Geo Federal Congressional District Code
+IBE_01,ibe2404_01,Geo State Upper House District Code
+IBE_01,ibe2405_01,Geo State Lower House District Code
+IBE_01,ibe2507_01,Business Travel - Domestic - Have Taken
+IBE_01,ibe2507_02,Business Travel - Domestic - Would Enjoy
+IBE_01,ibe2524_01,Vacation Travel - Cruise - Have Taken
+IBE_01,ibe2524_02,Vacation Travel - Cruise - Would Enjoy
+IBE_01,ibe2526,Inferred Household Rank
+IBE_01,ibe2527,Vacation Travel - Leisure
+IBE_01,ibe2529,Vacation Travel - RV
+IBE_01,ibe2532_01,Vacation Travel - United States - Have Taken
+IBE_01,ibe2532_02,Vacation Travel - United States - Would Enjoy
+IBE_01,ibe2776,Green Living
+IBE_01,ibe2800,Investors - Stocks Bonds - Plus
+IBE_01,ibe2807,Business Owner - Person
+IBE_01,ibe2810,Entering Adulthood - Person
+IBE_01,ibe2834,Affordability
+IBE_01,ibe2901_01,Economic Assessment - ITA Index - Zip+4 Aggregate
+IBE_01,ibe2901_02,Economic Assessment - ITA Index - Zip+4 Aggregate - Precision Level
+IBE_01,ibe2902_01,Economic Assessment - ITA Score - Zip+4 Aggregate
+IBE_01,ibe2902_02,Economic Assessment - ITA Score - Zip+4 Aggregate - Precision Level
+IBE_01,ibe2903_01,Economic Assessment - Revolving Bank Card Balance Index - Zip+4 Aggregate
+IBE_01,ibe2903_02,Economic Assessment - Revolving Bank Card Balance Index - Zip+4 Aggregate - Precision Level
+IBE_01,ibe2904_01,Economic Assessment - Revolving Bank Card Balance Range - Zip+4 Aggregate
+IBE_01,ibe2904_02,Economic Assessment - Revolving Bank Card Balance Range - Zip+4 Aggregate - Precision Level
+IBE_01,ibe2905_01,Economic Assessment - Bank Card Utilization Index - Zip+4 Aggregate
+IBE_01,ibe2905_02,Economic Assessment - Bank Card Utilization Index - Zip+4 Aggregate - Precision Level
+IBE_01,ibe2906_01,Economic Assessment - Bank Card Utilization Rate - Zip+4 Aggregate
+IBE_01,ibe2906_02,Economic Assessment - Bank Card Utilization Rate - Zip+4 Aggregate - Precision Level
+IBE_01,ibe2907_01,Economic Assessment - Bank Card Utilization Rate Range - Zip+4 Aggregate
+IBE_01,ibe2907_02,Economic Assessment - Bank Card Utilization Rate Range - Zip+4 Aggregate - Precision Level
+IBE_01,ibe2908_01,Economic Assessment - Open Auto Loans Index - Zip+4 Aggregate
+IBE_01,ibe2908_02,Economic Assessment - Open Auto Loans Index - Zip+4 Aggregate - Precision Level
+IBE_01,ibe2909_01,Economic Assessment - Open Auto Loans Range - Zip+4 Aggregate
+IBE_01,ibe2909_02,Economic Assessment - Open Auto Loans Range - Zip+4 Aggregate - Precision Level
+IBE_01,ibe2910_01,Economic Assessment - Newest Auto Loan Recency Index - Zip+4 Aggregate
+IBE_01,ibe2910_02,Economic Assessment - Newest Auto Loan Recency Index - Zip+4 Aggregate - Precision Level
+IBE_01,ibe2911_01,Economic Assessment - Newest Auto Loan Recency Range - Zip+4 Aggregate
+IBE_01,ibe2911_02,Economic Assessment - Newest Auto Loan Recency Range - Zip+4 Aggregate - Precision Level
+IBE_01,ibe2912_01,Economic Assessment - Mortgage Loan Balance Range - Zip+4 Aggregate
+IBE_01,ibe2913_01,Economic Assessment - Mortgage Loan Original Balance Range - Zip+4 Aggregate
+IBE_01,ibe2914_01,Economic Assessment - Newest Mortgage Loan Recency Range - Zip+4 Aggregate
+IBE_01,ibe2915_01,Economic Assessment - Mortgage Loan Remaining Balance Range - Zip+4 Aggregate
+IBE_01,ibe2916_01,Economic Assessment - Households with Open Mortgage Loan Range - Zip+4 Aggregate
+IBE_01,ibe2917_01,Economic Assessment - Student Loan Balance Range - Zip+4 Aggregate
+IBE_01,ibe2918_01,Economic Assessment - Newest Student Loan Recency Range - Zip+4 Aggregate
+IBE_01,ibe2919_01,Economic Assessment - Households with Open Student Loan Range - Zip+4 Aggregate
+IBE_01_A,customer_user_id,Customer User ID
+IBE_01_A,ibe3101,Race Code (Low Detail)
+IBE_01_A,ibe3102,Country of Origin (High Detail)
+IBE_01_A,ibe3501,Buying Activity - Number of Orders - Total Last 1 Year
+IBE_01_A,ibe3502,Buying Activity - Number of Orders - Total Last 2 Years
+IBE_01_A,ibe3503,Buying Activity - Number of Orders - Total Last 5 Years
+IBE_01_A,ibe3504,Buying Activity - Dollars Spent - Total Last 1 Year
+IBE_01_A,ibe3505,Buying Activity - Dollars Spent - Total Last 2 Years
+IBE_01_A,ibe3506,Buying Activity - Dollars Spent - Payment Type - Credit Card - Last 1 Year
+IBE_01_A,ibe3507,Buying Activity - Dollars Spent - Payment Type - Credit Card - Last 2 Years
+IBE_01_A,ibe3508,Buying Activity - Weeks Since Last Order
+IBE_01_A,ibe3509,Buying Activity - Number of Returns - Last 5 Years
+IBE_01_A,ibe3510,Buying Activity - Weeks Since Last Order - Under $50 Range
+IBE_01_A,ibe3511,Buying Activity - Weeks Since Last Order - $50 - 99 Range
+IBE_01_A,ibe3512,Buying Activity - Weeks Since Last Order - $100 - 249 Range
+IBE_01_A,ibe3513,Buying Activity - Weeks Since Last Order - $250 - 499 Range
+IBE_01_A,ibe3514,Buying Activity - Weeks Since Last Order - $500 - 999 Range
+IBE_01_A,ibe3515,"Buying Activity - Weeks Since Last Order - $1
+IBE_01_A,ibe3516,Buying Activity - Weeks Since Last Online Order
+IBE_01_A,ibe3517,Buying Activity - Weeks Since Last Offline Order
+IBE_01_A,ibe3518,Buying Activity - Number of Orders - Broadcast Promotions
+IBE_01_A,ibe3519,Buying Activity- Number of Orders - Direct Mail Promotions
+IBE_01_A,ibe3520,Buying Activity - Number of Orders - Email Promotions
+IBE_01_A,ibe3521,Buying Activity - Number of Orders - Insert Promotions
+IBE_01_A,ibe3522,Buying Activity - Number of Orders - Internet Promotions
+IBE_01_A,ibe3523,Buying Activity - Number of Orders - Pets & Animals
+IBE_01_A,ibe3524,Buying Activity - Number of Orders - Apparel
+IBE_01_A,ibe3525,Buying Activity - Number of Orders - Home Office
+IBE_01_A,ibe3526,Buying Activity - Number of Orders - Children Related Products
+IBE_01_A,ibe3527,Buying Activity - Number of Orders - Collectibles
+IBE_01_A,ibe3528,Buying Activity - Number of Orders - Cooking
+IBE_01_A,ibe3529,Buying Activity - Number of Orders - Beauty
+IBE_01_A,ibe3531,Buying Activity - Number of Orders - Educational Materials
+IBE_01_A,ibe3533,Buying Activity - Number of Orders - Fiction
+IBE_01_A,ibe3534,Buying Activity - Number of Orders - Fitness & Exercise
+IBE_01_A,ibe3535,Buying Activity - Number of Orders - Food & Beverage
+IBE_01_A,ibe3536,Buying Activity - Number of Orders - Garden
+IBE_01_A,ibe3537,Buying Activity - Number of Orders - General Magazines
+IBE_01_A,ibe3538,Buying Activity - Number of Orders - Health
+IBE_01_A,ibe3539,Buying Activity - Number of Orders - DIY
+IBE_01_A,ibe3540,Buying Activity - Number of Orders - History
+IBE_01_A,ibe3541,Buying Activity - Number of Orders - Hobbies
+IBE_01_A,ibe3542,Buying Activity - Number of Orders - Holiday Items
+IBE_01_A,ibe3543,Buying Activity - Number of Orders - Home D√©cor
+IBE_01_A,ibe3545,Buying Activity - Number of Orders - Jewelry
+IBE_01_A,ibe3546,Buying Activity - Number of Orders - Lifestyle
+IBE_01_A,ibe3547,Buying Activity - Number of Orders - Apparel - Men's - General
+IBE_01_A,ibe3548,Buying Activity - Number of Orders - Finance
+IBE_01_A,ibe3549,Buying Activity - Number of Orders - Mystery
+IBE_01_A,ibe3551,Buying Activity - Number of Orders - Politics
+IBE_01_A,ibe3553,Buying Activity - Number of Orders - Reference
+IBE_01_A,ibe3556,Buying Activity - Number of Orders - Science & Nature
+IBE_01_A,ibe3558,Buying Activity - Number of Orders - Travel & Vacation
+IBE_01_A,ibe3559,Buying Activity - Number of Orders - Women's Fashion
+IBE_01_A,ibe3560,Buying Activity - Weeks Since Last Order - Pets & Animals
+IBE_01_A,ibe3561,Buying Activity - Weeks Since Last Order - Apparel
+IBE_01_A,ibe3562,Buying Activity - Weeks Since Last Order - Home Office
+IBE_01_A,ibe3563,Buying Activity - Weeks Since Last Order - Children Related Products
+IBE_01_A,ibe3564,Buying Activity - Weeks Since Last Order - Collectibles
+IBE_01_A,ibe3565,Buying Activity - Weeks Since Last Order - Cooking
+IBE_01_A,ibe3566,Buying Activity - Weeks Since Last Order - Beauty
+IBE_01_A,ibe3568,Buying Activity - Weeks Since Last Order - Educational Materials
+IBE_01_A,ibe3570,Buying Activity - Weeks Since Last Order - Fiction
+IBE_01_A,ibe3571,Buying Activity - Weeks Since Last Order - Fitness & Exercise
+IBE_01_A,ibe3572,Buying Activity - Weeks Since Last Order - Food & Beverage
+IBE_02,customer_user_id,Customer User ID
+IBE_02,ibe3573,Buying Activity - Weeks Since Last Order - Garden
+IBE_02,ibe3574,Buying Activity - Weeks Since Last Order - General Magazines
+IBE_02,ibe3575,Buying Activity - Weeks Since Last Order - Health
+IBE_02,ibe3576,Buying Activity - Weeks Since Last Order - DIY
+IBE_02,ibe3577,Buying Activity - Weeks Since Last Order - History
+IBE_02,ibe3578,Buying Activity - Weeks Since Last Order - Hobbies
+IBE_02,ibe3579,Buying Activity - Weeks Since Last Order - Holiday Items
+IBE_02,ibe3580,Buying Activity - Weeks Since Last Order - Home D√©cor
+IBE_02,ibe3582,Buying Activity - Weeks Since Last Order - Jewelry
+IBE_02,ibe3583,Buying Activity - Weeks Since Last Order - Lifestyle
+IBE_02,ibe3584,Buying Activity - Weeks Since Last Order - Apparel - Men's - General
+IBE_02,ibe3585,Buying Activity - Weeks Since Last Order - Finance
+IBE_02,ibe3586,Buying Activity - Weeks Since Last Order - Mystery
+IBE_02,ibe3588,Buying Activity - Weeks Since Last Order - Politics
+IBE_02,ibe3590,Buying Activity - Weeks Since Last Order - Reference
+IBE_02,ibe3593,Buying Activity - Weeks Since Last Order - Science & Nature
+IBE_02,ibe3595,Buying Activity - Weeks Since Last Order - Travel & Vacation
+IBE_02,ibe3596,Buying Activity - Weeks Since Last Order - Women's Fashion
+IBE_02,ibe3597,Buying Activity - Dollars - Pets & Animals
+IBE_02,ibe3598,Buying Activity - Dollars - Apparel
+IBE_02,ibe3599,Buying Activity - Dollars - Home Office
+IBE_02,ibe3600,Buying Activity - Dollars - Beauty
+IBE_02,ibe3601,Buying Activity - Dollars - Children Related Products
+IBE_02,ibe3602,Buying Activity - Dollars - Collectibles
+IBE_02,ibe3603,Buying Activity - Dollars - Cooking
+IBE_02,ibe3605,Buying Activity - Dollars - Educational Materials
+IBE_02,ibe3607,Buying Activity - Dollars - Fiction
+IBE_02,ibe3608,Buying Activity - Dollars - Fitness & Exercise
+IBE_02,ibe3609,Buying Activity - Dollars - Food & Beverage
+IBE_02,ibe3610,Buying Activity - Dollars - Garden
+IBE_02,ibe3611,Buying Activity - Dollars - Magazines
+IBE_02,ibe3612,Buying Activity - Dollars - Health
+IBE_02,ibe3613,Buying Activity - Dollars - DIY
+IBE_02,ibe3614,Buying Activity - Dollars - History
+IBE_02,ibe3615,Buying Activity - Dollars - Hobbies
+IBE_02,ibe3616,Buying Activity - Dollars - Holiday Items
+IBE_02,ibe3617,Buying Activity - Dollars - Home D√©cor
+IBE_02,ibe3619,Buying Activity - Dollars - Jewelry
+IBE_02,ibe3620,Buying Activity - Dollars - Lifestyle
+IBE_02,ibe3621,Buying Activity - Dollars - Apparel - Men's
+IBE_02,ibe3622,Buying Activity - Dollars - Finance
+IBE_02,ibe3623,Buying Activity - Dollars - Mystery
+IBE_02,ibe3625,Buying Activity - Dollars - Politics
+IBE_02,ibe3627,Buying Activity - Dollars - Reference
+IBE_02,ibe3630,Buying Activity - Dollars - Science & Nature
+IBE_02,ibe3632,Buying Activity - Dollars - Travel & Vacation
+IBE_02,ibe3633,Buying Activity - Dollars - Women's Fashion
+IBE_02,ibe3634,Buying Activity - Number of Orders - Payment Type - Cash
+IBE_02,ibe3635,Buying Activity - Number of Orders - Payment Type- Credit Card
+IBE_02,ibe3636,Buying Activity - Number of Orders in 01 January
+IBE_02,ibe3637,Buying Activity - Number of Orders in 02 February
+IBE_02,ibe3638,Buying Activity - Number of Orders in 03 March
+IBE_02,ibe3639,Buying Activity - Number of Orders in 04 April
+IBE_02,ibe3640,Buying Activity - Number of Orders in 05 May
+IBE_02,ibe3641,Buying Activity - Number of Orders in 06 June
+IBE_02,ibe3642,Buying Activity - Number of Orders in 07 July
+IBE_02,ibe3643,Buying Activity - Number of Orders in 08 August
+IBE_02,ibe3644,Buying Activity - Number of Orders in 09 September
+IBE_02,ibe3645,Buying Activity - Number of Orders in 10 October
+IBE_02,ibe3646,Buying Activity - Number of Orders in 11 November
+IBE_02,ibe3647,Buying Activity - Number of Orders in 12 December
+IBE_02,ibe3648,Buying Activity - Average Dollar Amount Per Order
+IBE_02,ibe3649,Buying Activity - Offline Average Dollars Spent Per Order
+IBE_02,ibe3650,Buying Activity - Online Average Dollar Amount Per Order
+IBE_02,ibe3651,Buying Activity - Purchased in 01 January
+IBE_02,ibe3652,Buying Activity - Purchased in 02 February
+IBE_02,ibe3653,Buying Activity - Purchased in 03 March
+IBE_02,ibe3654,Buying Activity - Purchased in 04 April
+IBE_02,ibe3655,Buying Activity - Purchased in 05 May
+IBE_02,ibe3656,Buying Activity - Purchased in 06 June
+IBE_02,ibe3657,Buying Activity - Purchased in 07 July
+IBE_02,ibe3658,Buying Activity - Purchased in 08 August
+IBE_02,ibe3659,Buying Activity - Purchased in 09 September
+IBE_02,ibe3660,Buying Activity - Purchased in 10 October
+IBE_02,ibe3661,Buying Activity - Purchased in 11 November
+IBE_02,ibe3662,Buying Activity - Purchased in 12 December
+IBE_02,ibe3663,Buying Activity - Total Offline Dollars
+IBE_02,ibe3664,Buying Activity - Total Offline Orders
+IBE_02,ibe3665,Buying Activity - Total Offline Orders - Under $50 Range
+IBE_02,ibe3666,Buying Activity - Total Offline Orders - $50-$99.99 Range
+IBE_02,ibe3667,Buying Activity - Total Offline Orders - $100-$249.99 Range
+IBE_02,ibe3668,Buying Activity - Total Offline Orders - $250-$499.99 Range
+IBE_02,ibe3669,Buying Activity - Total Offline Orders - $500-$999.99 Range
+IBE_02,ibe3670,"Buying Activity - Total Offline Orders - $1
+IBE_02,ibe3671,Buying Activity - Total Online Dollars
+IBE_02,ibe3672,Buying Activity - Total Online Orders
+IBE_02,ibe3673,Buying Activity - Total Online Orders - Under $50 Range
+IBE_02,ibe3674,Buying Activity - Total Online Orders - $50-$99.99 Range
+IBE_02,ibe3675,Buying Activity - Total Online Orders - $100-$249.99 Range
+IBE_02,ibe3676,Buying Activity - Total Online Orders - $250-$499.99 Range
+IBE_02,ibe3677,Buying Activity - Total Online Orders - $500-$999.99 Range
+IBE_02,ibe3678,"Buying Activity - Total Online Orders - $1
+IBE_02_A,customer_user_id,Customer User ID
+IBE_02_A,ibe3679,Buying Activity - Pets & Animals
+IBE_02_A,ibe3680,Buying Activity - Apparel
+IBE_02_A,ibe3681,Buying Activity - Home Office
+IBE_02_A,ibe3682,Buying Activity - Children Related Products
+IBE_02_A,ibe3683,Buying Activity - Collectibles
+IBE_02_A,ibe3684,Buying Activity - Cooking
+IBE_02_A,ibe3685,Buying Activity - Beauty
+IBE_02_A,ibe3687,Buying Activity - Educational Materials
+IBE_02_A,ibe3689,Buying Activity - Fiction
+IBE_02_A,ibe3690,Buying Activity - Fitness & Exercise
+IBE_02_A,ibe3691,Buying Activity - Food & Beverage
+IBE_02_A,ibe3692,Buying Activity - Garden
+IBE_02_A,ibe3693,Buying Activity - General Magazines
+IBE_02_A,ibe3694,Buying Activity - Health
+IBE_02_A,ibe3695,Buying Activity - DIY
+IBE_02_A,ibe3696,Buying Activity - History
+IBE_02_A,ibe3697,Buying Activity - Hobbies
+IBE_02_A,ibe3698,Buying Activity - Holiday Items
+IBE_02_A,ibe3699,Buying Activity - Home D√©cor
+IBE_02_A,ibe3701,Buying Activity - Jewelry
+IBE_02_A,ibe3702,Buying Activity - Lifestyle
+IBE_02_A,ibe3703,Buying Activity - Apparel - Men's - General
+IBE_02_A,ibe3704,Buying Activity - Finance
+IBE_02_A,ibe3705,Buying Activity - Mystery
+IBE_02_A,ibe3707,Buying Activity - Politics
+IBE_02_A,ibe3709,Buying Activity - Reference
+IBE_02_A,ibe3712,Buying Activity - Science & Nature
+IBE_02_A,ibe3714,Buying Activity - Travel & Vacation
+IBE_02_A,ibe3715,Buying Activity - Women's Fashion
+IBE_02_A,ibe3716,Buying Activity - Total Online Dollars - Person
+IBE_02_A,ibe3717,Buying Activity - Total Online Orders - Person
+IBE_02_A,ibe3718,Buying Activity - Online Average Dollar Amount Per Order - Person
+IBE_02_A,ibe3719,Buying Activity - Weeks Since Last Online Order - Person
+IBE_02_A,ibe3720,Buying Activity - Number of Orders - Electronics¬†
+IBE_02_A,ibe3721,Buying Activity - Weeks Since Last Order - Electronics¬†
+IBE_02_A,ibe3722,Buying Activity - Dollars - Electronics¬†
+IBE_02_A,ibe3723,Buying Activity - Electronics¬†
+IBE_02_A,ibe3724,Buying Activity - Number of Orders - Footwear
+IBE_02_A,ibe3725,Buying Activity - Weeks Since Last Order - Footwear
+IBE_02_A,ibe3726,Buying Activity - Dollars - Footwear¬†
+IBE_02_A,ibe3727,Buying Activity - Footwear
+IBE_02_A,ibe3728,Buying Activity - Number of Orders - Auto¬†
+IBE_02_A,ibe3729,Buying Activity - Weeks Since Last Order - Auto¬†
+IBE_02_A,ibe3730,Buying Activity - Dollars - Auto¬†
+IBE_02_A,ibe3731,Buying Activity - Auto¬†
+IBE_02_A,ibe3732,Buying Activity - Number of Orders - Warranty¬†
+IBE_02_A,ibe3733,Buying Activity - Weeks Since Last Order - Warranty¬†
+IBE_02_A,ibe3734,Buying Activity - Dollars - Warranty¬†
+IBE_02_A,ibe3735,Buying Activity - Warranty¬†
+IBE_02_A,ibe3736,Buying Activity - Number of Orders - Apparel Accessories¬†
+IBE_02_A,ibe3737,Buying Activity - Weeks Since Last Order - Apparel Accessories¬†
+IBE_02_A,ibe3738,Buying Activity - Dollars - Apparel Accessories¬†
+IBE_02_A,ibe3739,Buying Activity - Apparel Accessories¬†
+IBE_02_A,ibe3740,Buying Activity - Number of Orders ‚Äì Humanitarian Aid/Donations¬†
+IBE_02_A,ibe3741,Buying Activity - Weeks Since Last Order - Humanitarian Aid/Donations¬†
+IBE_02_A,ibe3742,Buying Activity - Dollars - Humanitarian Aid/Donations¬†
+IBE_02_A,ibe3743,Buying Activity - Humanitarian Aid/Donations¬†
+IBE_02_A,ibe3744,Buying Activity - Number of Orders - Furniture¬†
+IBE_02_A,ibe3745,Buying Activity - Weeks Since Last Order - Furniture¬†
+IBE_02_A,ibe3746,Buying Activity - Dollars - Furniture¬†
+IBE_02_A,ibe3747,Buying Activity - Furniture¬†
+IBE_02_A,ibe3748,Buying Activity - Number of Orders ‚Äì Outdoor Accessories/Furniture¬†
+IBE_02_A,ibe3749,Buying Activity - Weeks Since Last Order - Outdoor Accessories/Furniture¬†
+IBE_02_A,ibe3750,Buying Activity - Dollars - Outdoor Accessories/Furniture¬†
+IBE_02_A,ibe3751,Buying Activity - Outdoor Accessories/Furniture¬†
+IBE_02_A,ibe3752,Buying Activity - Number of Orders - Linens¬†
+IBE_02_A,ibe3753,Buying Activity - Weeks Since Last Order - Linens¬†
+IBE_02_A,ibe3754,Buying Activity - Dollars - Linens¬†
+IBE_02_A,ibe3755,Buying Activity - Linens¬†
+IBE_02_A,ibe3756,Buying Activity - Number of Orders ‚Äì Household Goods¬†
+IBE_02_A,ibe3757,Buying Activity - Weeks Since Last Order - Household Goods¬†
+IBE_02_A,ibe3758,Buying Activity - Dollars - Household Goods¬†
+IBE_02_A,ibe3759,Buying Activity - Household Goods¬†
+IBE_02_A,ibe3760,Buying Activity - Number of Orders ‚Äì Health Supplements¬†
+IBE_02_A,ibe3761,Buying Activity - Weeks Since Last Order - Health Supplements¬†
+IBE_02_A,ibe3762,Buying Activity - Dollars - Health Supplements¬†
+IBE_02_A,ibe3763,Buying Activity - Health Supplements¬†
+IBE_02_A,ibe3804,Ethnic Group - Person
+IBE_02_A,ibe3805,Race Code (Low Detail) - Person
+IBE_02_A,ibe3806,Country of Origin (High Detail) - Person
+IBE_02_A,ibe3807,Hispanic Language Preference - Person
+IBE_02_A,ibe4100,Consumer Prominence Indicator - Person
+IBE_02_A,ibe4101,Consumer Prominence Indicator - Household
+IBE_02_A,ibe4102,Consumer Prominence Indicator - Residency
+IBE_03,customer_user_id,Customer User ID
+IBE_03,ibe6138,Apparel - General
+IBE_03,ibe6142,Category - Apparel - Women's - Plus Sizes
+IBE_03,ibe6143,Super Category - Apparel - General
+IBE_03,ibe6145,"Super Category - Appliances
+IBE_03,ibe6149,Art
+IBE_03,ibe6151,Category - Arts and Antiques - Art
+IBE_03,ibe6152,Collectibles - Arts and Antiques - General
+IBE_03,ibe6154,Automotive Assessories/Parts/Supplies/Cleaners
+IBE_03,ibe6155,Automotive Accessories
+IBE_03,ibe6156,Automotive Accessories/Parts
+IBE_03,ibe6157,Automotive Parts/Supplies
+IBE_03,ibe6197,Books - General
+IBE_03,ibe6200,Category - Books and Magazines - Music Books
+IBE_03,ibe6253,Children's Products - General
+IBE_03,ibe6269,Collectibles - Dolls
+IBE_03,ibe6294,Crafts/Hobbies - General
+IBE_03,ibe6314,Category - DVDs/Videos
+IBE_03,ibe6317,Electronics
+IBE_03,ibe6329,Category - Electronics and Computing - Software
+IBE_03,ibe6331,"Super Category - Electronics
+IBE_03,ibe6358,Fishing Supplies
+IBE_03,ibe6362,Food/Beverages
+IBE_03,ibe6379,Gardening Supplies
+IBE_03,ibe6380,Category - Gardening
+IBE_03,ibe6398,Super Category - Gifts/Holiday Items
+IBE_03,ibe6422,Golfing Equipment and Gifts
+IBE_03,ibe6425,Health and Beauty
+IBE_03,ibe6456,Super Category - Children's Products - General
+IBE_03,ibe6503,Home Furnishings - General
+IBE_03,ibe6504,Category - Home Furnishings
+IBE_03,ibe6537,Category - Lifestyle - Interests and Passions - Collectibles
+IBE_03,ibe6538,Category - Lifestyle - Interests and Passionsrafts/Hobbies
+IBE_03,ibe6541,"Super Category - Lifestyles
+IBE_03,ibe6579,Membership Clubs - General
+IBE_03,ibe6580,Category - Membership Clubs
+IBE_03,ibe6617,Music - General
+IBE_03,ibe6727,Super Category - Other Merchandise/Services
+IBE_03,ibe6739,Pets
+IBE_03,ibe6740,Super Category - Pets
+IBE_03,ibe6791,Sports and Leisure
+IBE_03,ibe6793,Super Category - Sports and Leisure
+IBE_03,ibe6794,Category - Sports and Leisure
+IBE_03,ibe6818,Travel - General
+IBE_03,ibe6819,Category - Travel
+IBE_03,ibe6820,Super Category - Travel and Entertainment
+IBE_03,ibe6829,Videos/DVDs - General
+IBE_03,ibe6880,Women's Apparel - General
+IBE_03,ibe7110,Economic Stability Indicator (Financial)
+IBE_03,ibe7200,Age in One-Year Increments - Person
+IBE_03,ibe7271,Affluent Couples No Kids
+IBE_03,ibe7272,Affluent Homes
+IBE_03,ibe7273,Affluent Parents
+IBE_03,ibe7274,Affluent Parents of Teens
+IBE_03,ibe7275,Affluent Moms of Young Children
+IBE_03,ibe7276,Affluent Seniors
+IBE_03,ibe7277,Affluent Bachelors
+IBE_03,ibe7278,Affluent Bachelorettes
+IBE_03,ibe7279,Affluent Travelers
+IBE_03,ibe7280,Moms with Big Families
+IBE_03,ibe7281,Concert Goers
+IBE_03,ibe7282,Calorie Conscious
+IBE_03,ibe7283,DIY Fixer Uppers
+IBE_03,ibe7284,Family Travelers
+IBE_03,ibe7285,Fashionistas
+IBE_03,ibe7286,Fitness Warriors
+IBE_03,ibe7287,Gadget Hobbyists
+IBE_03,ibe7288,Health Enthusiasts
+IBE_03,ibe7289,Affluent Households
+IBE_03,ibe7290,Calorie Conscious Cooks
+IBE_03,ibe7291,Luxury Fashionistas
+IBE_03,ibe7292,Moms of College Students
+IBE_03,ibe7293,Moms of Elementary Students
+IBE_03,ibe7294,Moms of High School Students
+IBE_03,ibe7295,Moms of Middle School Students
+IBE_03,ibe7296,Motorcycle Tourists
+IBE_03,ibe7297,Music Buyers
+IBE_03,ibe7298,Music Device Buyers
+IBE_03,ibe7300,First-time Parents
+IBE_03,ibe7301,Parents of Infants to Toddlers
+IBE_03,ibe7302,Snow Ski Vacationer
+IBE_03,ibe7303,Soccer Moms
+IBE_03,ibe7304,Video Gamers
+IBE_03,ibe7305,Smart Home Enthusiasts
+IBE_03,ibe7306,Fitness Trackers
+IBE_03,ibe7307,Millennial Moms
+IBE_03,ibe7309,Bargain Shoppers
+IBE_03,ibe7467,Recent Home Buyer
+IBE_03,ibe7468,Recent Mortgage Borrower
+IBE_03,ibe7469,New Parent
+IBE_03,ibe7470,Child Near High School Graduation in Household
+IBE_03,ibe7473,Entering Adulthood
+IBE_03,ibe7478,New Mover
+IBE_03,ibe7480_01,Probable New Teen Driver - Age Indicator
+IBE_03,ibe7480_02,Probable New Teen Driver - Gender
+IBE_03,ibe7480_03,Probable New Teen Driver - Urbanicity
+IBE_03_A,customer_user_id,Customer User ID
+IBE_03_A,ibe7600_01,Adult Age Ranges Present - 18 to 24 Male - 100%
+IBE_03_A,ibe7600_02,Adult Age Ranges Present - 18 to 24 Female - 100%
+IBE_03_A,ibe7600_03,Adult Age Ranges Present - 18 to 24 Unknown Gender - 100%
+IBE_03_A,ibe7600_04,Adult Age Ranges Present - 25 to 34 Male - 100%
+IBE_03_A,ibe7600_05,Adult Age Ranges Present - 25 to 34 Female - 100%
+IBE_03_A,ibe7600_06,Adult Age Ranges Present - 25 to 34 Unknown Gender - 100%
+IBE_03_A,ibe7600_07,Adult Age Ranges Present - 35 to 44 Male - 100%
+IBE_03_A,ibe7600_08,Adult Age Ranges Present - 35 to 44 Female - 100%
+IBE_03_A,ibe7600_09,Adult Age Ranges Present - 35 to 44 Unknown Gender - 100%
+IBE_03_A,ibe7600_10,Adult Age Ranges Present - 45 to 54 Male - 100%
+IBE_03_A,ibe7600_11,Adult Age Ranges Present - 45 to 54 Female - 100%
+IBE_03_A,ibe7600_12,Adult Age Ranges Present - 45 to 54 Unknown Gender - 100%
+IBE_03_A,ibe7600_13,Adult Age Ranges Present - 55 to 64 Male - 100%
+IBE_03_A,ibe7600_14,Adult Age Ranges Present - 55 to 64 Female - 100%
+IBE_03_A,ibe7600_15,Adult Age Ranges Present - 55 to 64 Unknown Gender - 100%
+IBE_03_A,ibe7600_16,Adult Age Ranges Present - 65 to 74 Male - 100%
+IBE_03_A,ibe7600_17,Adult Age Ranges Present - 65 to 74 Female - 100%
+IBE_03_A,ibe7600_18,Adult Age Ranges Present - 65 to 74 Unknown Gender - 100%
+IBE_03_A,ibe7600_19,Adult Age Ranges Present - 75 or over Male - 100%
+IBE_03_A,ibe7600_20,Adult Age Ranges Present - 75 or over Female - 100%
+IBE_03_A,ibe7600_21,Adult Age Ranges Present - 75 and over Unknown Gender - 100%
+IBE_03_A,ibe7600_22,Adult Age Ranges Present - 100% - Precision Level
+IBE_03_A,ibe7601_01,Children's Age Ranges Present - 00 to 02 Male - 100%
+IBE_03_A,ibe7601_02,Children's Age Ranges Present - 00 to 02 Female - 100%
+IBE_03_A,ibe7601_03,Children's Age Ranges Present - 00 to 02 Unknown Gender - 100%
+IBE_03_A,ibe7601_04,Children's Age Ranges Present - 03 to 05 Male - 100%
+IBE_03_A,ibe7601_05,Children's Age Ranges Present - 03 to 05 Female - 100%
+IBE_03_A,ibe7601_06,Children's Age Ranges Present - 03 to 05 Unknown Gender - 100%
+IBE_03_A,ibe7601_07,Children's Age Ranges Present - 06 to 10 Male - 100%
+IBE_03_A,ibe7601_08,Children's Age Ranges Present - 06 to 10 Female - 100%
+IBE_03_A,ibe7601_09,Children's Age Ranges Present - 06 to 10 Unknown Gender- 100%
+IBE_03_A,ibe7601_10,Children's Age Ranges Present - 11 to 15 Male - 100%
+IBE_03_A,ibe7601_11,Children's Age Ranges Present - 11 to 15 Female - 100%
+IBE_03_A,ibe7601_12,Children's Age Ranges Present - 11 to 15 Unknown Gender - 100%
+IBE_03_A,ibe7601_13,Children's Age Ranges Present - 16 to 17 Male - 100%
+IBE_03_A,ibe7601_14,Children's Age Ranges Present - 16 to 17 Female - 100%
+IBE_03_A,ibe7601_15,Children's Age Ranges Present - 16 to 17 Unknown Gender - 100%
+IBE_03_A,ibe7601_16,Children's Age Ranges Present - 100% - Precision Level
+IBE_03_A,ibe7602_01,Number of Children - 100%
+IBE_03_A,ibe7602_02,Number of Children - 100% - Precision Level
+IBE_03_A,ibe7606_01,Home Owner / Renter - 100%
+IBE_03_A,ibe7606_02,Home Owner / Renter - 100% - Precision Level
+IBE_03_A,ibe7607_01,Home Length of Residence - 100%
+IBE_03_A,ibe7607_02,Home Length of Residence - 100% - Precision Level
+IBE_03_A,ibe7609_01,Marital Status in the Household - 100%
+IBE_03_A,ibe7609_02,Marital Status in the Household - 100% - Precision Level
+IBE_03_A,ibe7616_01,Age in Two-Year Increments - 1st Person in Household - 100%
+IBE_03_A,ibe7616_02,Age in Two-Year Increments - 1st Person in Household - 100% - Precision Level
+IBE_03_A,ibe7622_01,Presence of Children - 100%
+IBE_03_A,ibe7622_02,Presence of Children - 100% - Precision Level
+IBE_03_A,ibe7628_01,Adults - Number in Household - 100%
+IBE_03_A,ibe7628_02,Adults - Number in Household - 100% - Precision Level
+IBE_03_A,ibe7629_01,Household Size - 100%
+IBE_03_A,ibe7629_02,Household Size - 100% - Precision Level
+IBE_03_A,ibe7641_01,Income - Estimated Household - Broad Ranges - 100%
+IBE_03_A,ibe7641_02,Income - Estimated Household - Broad Ranges - 100% - Precision Level
+IBE_03_A,ibe7650_01,Education - 1st Person in Household - 100%
+IBE_03_A,ibe7650_02,Education - 1st Person in Household - 100% - Precision Level
+IBE_03_A,ibe7671_01,Income - Estimated Household - Narrow Ranges - 100%
+IBE_03_A,ibe7671_02,Income - Estimated Household - Narrow Ranges - 100% - Precision Level
+IBE_03_A,ibe7719,Wireless Product Buyer
+IBE_03_A,ibe7720,Fashion
+IBE_03_A,ibe7721,History/Military
+IBE_03_A,ibe7723,Celebrities
+IBE_03_A,ibe7724,Current Affairs/Politics
+IBE_03_A,ibe7725,Theater/Performing Arts
+IBE_03_A,ibe7726,Community/Charities
+IBE_03_A,ibe7727,Religious/Inspirational
+IBE_03_A,ibe7728,Science/Space
+IBE_03_A,ibe7730,Career Improvement
+IBE_03_A,ibe7732,Arts
+IBE_03_A,ibe7733,Reading - General
+IBE_03_A,ibe7734,Reading - Best Sellers
+IBE_03_A,ibe7735,Reading - Religious/Inspirational
+IBE_03_A,ibe7736,Reading - Science Fiction
+IBE_04,customer_user_id,Customer User ID
+IBE_04,ibe7737,Reading - Magazines
+IBE_04,ibe7738,Reading - Audio Books
+IBE_04,ibe7739,Cooking - General
+IBE_04,ibe7740,Cooking - Gourmet
+IBE_04,ibe7741,Cooking - Low Fat
+IBE_04,ibe7743,Foods - Natural
+IBE_04,ibe7744,Travel - Domestic
+IBE_04,ibe7746,Recreational Vehicle
+IBE_04,ibe7747,Travel - Family Vacations
+IBE_04,ibe7748,Travel - Cruise Vacations
+IBE_04,ibe7750,Exercise - Running/Jogging
+IBE_04,ibe7751,Exercise - Walking
+IBE_04,ibe7753,Crafts
+IBE_04,ibe7754,Photography
+IBE_04,ibe7755,Aviation
+IBE_04,ibe7756,Auto Work
+IBE_04,ibe7757,Sewing/Knitting/Needlework
+IBE_04,ibe7758,Woodworking
+IBE_04,ibe7759,Games - Board Games/Puzzles
+IBE_04,ibe7761,Music Player
+IBE_04,ibe7762,Music Collector
+IBE_04,ibe7763,Music - Avid Listener
+IBE_04,ibe7764,Movie Collector
+IBE_04,ibe7768,Movies at Home
+IBE_04,ibe7770,Health/Medical
+IBE_04,ibe7771,Dieting/Weight Loss
+IBE_04,ibe7772,Self Improvement
+IBE_04,ibe7773,Cat Owner
+IBE_04,ibe7774,Dog Owner
+IBE_04,ibe7775,Other Pet Owner
+IBE_04,ibe7777,Parenting
+IBE_04,ibe7779,Children's Interests
+IBE_04,ibe7780,Grandchildren
+IBE_04,ibe7781,Spectator Sports - Auto/Motorcycle Racing
+IBE_04,ibe7782,Spectator Sports - Football
+IBE_04,ibe7783,Spectator Sports - Baseball
+IBE_04,ibe7784,Spectator Sports - Basketball
+IBE_04,ibe7785,Spectator Sports - Hockey
+IBE_04,ibe7786,Spectator Sports - Soccer
+IBE_04,ibe7788,Collectibles - General
+IBE_04,ibe7789,Collectibles - Stamps
+IBE_04,ibe7790,Collectibles - Coins
+IBE_04,ibe7791,Collectibles - Arts
+IBE_04,ibe7792,Collectibles - Antiques
+IBE_04,ibe7793,Investments - Personal
+IBE_04,ibe7794,Investments - Real Estate
+IBE_04,ibe7795,Investments - Stocks/Bonds
+IBE_04,ibe7796,Computers
+IBE_04,ibe7799,Games - Computer Games
+IBE_04,ibe7801,Consumer Electronics
+IBE_04,ibe7802,Fishing
+IBE_04,ibe7803,Camping/Hiking
+IBE_04,ibe7804,Hunting/Shooting
+IBE_04,ibe7805,Boating/Sailing
+IBE_04,ibe7807,Scuba Diving
+IBE_04,ibe7808,Biking/Mountain Biking
+IBE_04,ibe7809,Environmental Issues
+IBE_04,ibe7810,Tennis
+IBE_04,ibe7811,Golf
+IBE_04,ibe7812,Snow Skiing
+IBE_04,ibe7813,Motorcycling
+IBE_04,ibe7814,Equestrian
+IBE_04,ibe7815,Home Furnishings/Decorating
+IBE_04,ibe7816,Home Improvement
+IBE_04,ibe7817,Gardening
+IBE_04,ibe7821,Sweepstakes/Contests
+IBE_04,ibe7822,Sports Grouping
+IBE_04,ibe7823,Outdoors Grouping
+IBE_04,ibe7824,Travel Grouping
+IBE_04,ibe7825,Reading Grouping
+IBE_04,ibe7826,Cooking/Food Grouping
+IBE_04,ibe7827,Exercise/Health Grouping
+IBE_04,ibe7828,Movie/Music Grouping
+IBE_04,ibe7829,Electronics/Computers Grouping
+IBE_04,ibe7830,Home Improvement Grouping
+IBE_04,ibe7831,Investing/Finance Grouping
+IBE_04,ibe7832,Collectibles and Antiques Grouping
+IBE_04,ibe7841,Career
+IBE_04,ibe7843,Collectibles - Sports Memorabilia
+IBE_04,ibe7844,Education Online
+IBE_04,ibe7847,NASCAR
+IBE_04,ibe7848,Reading - Financial Newsletter Subscribers
+IBE_04,ibe7849,Beauty/Cosmetics
+IBE_04,ibe7851,Home Improvement - Do-It-Yourselfers
+IBE_04,ibe7856,Cooking/Food Connoisseur
+IBE_04,ibe7860,Do-It-Yourselfer/Gardener
+IBE_04_A,customer_user_id,Customer User ID
+IBE_04_A,ibe7964b_01,Geo Block Code
+IBE_04_A,ibe7964b_02,Geo Block Group Code
+IBE_04_A,ibe7964b_03,Geo Core Based Statistical Area (CBSA) Code
+IBE_04_A,ibe7964b_07,Geo Designated Marketing Area (DMA) Code
+IBE_04_A,ibe7964b_09,Geo FIPS County Code
+IBE_04_A,ibe7964b_11,Geo FIPS State Code
+IBE_04_A,ibe7964b_12,Geo FIPS State Name
+IBE_04_A,ibe7964b_13,Geo Minor Civil Division (MCD) Code
+IBE_04_A,ibe7964b_15,Geo Nielsen County Size Code
+IBE_04_A,ibe7964b_16,Geo Place Code
+IBE_04_A,ibe7964b_18,Geo Precision Level Code
+IBE_04_A,ibe7964b_20,Geo Tract Code
+IBE_04_A,ibe7994b_01,Geo Latitude
+IBE_04_A,ibe7994b_02,Geo Longitude
+IBE_04_A,ibe8082,SOHO Indicator
+IBE_04_A,ibe8165_01,Vehicle - Truck Owner
+IBE_04_A,ibe8165_02,Vehicle - Motorcycle Owner
+IBE_04_A,ibe8165_03,Vehicle - Recreational Vehicle Owner
+IBE_04_A,ibe8167_01,Mail Order Buyer Categories - Apparel Female
+IBE_04_A,ibe8167_02,Mail Order Buyer Categories - Apparel Jewelry
+IBE_04_A,ibe8167_03,Mail Order Buyer Categories - Apparel Male
+IBE_04_A,ibe8167_04,Mail Order Buyer Categories - Apparel Women's Plus Sizes
+IBE_04_A,ibe8167_05,Mail Order Buyer Categories - Apparel Teen Fashion
+IBE_04_A,ibe8167_06,Mail Order Buyer Categories - Apparel Unknown Type
+IBE_04_A,ibe8167_07,Mail Order Buyer Categories - Arts and Antiques
+IBE_04_A,ibe8167_08,Mail Order Buyer Categories - Arts and Crafts
+IBE_04_A,ibe8167_09,Mail Order Buyer Categories - Auto Supplies
+IBE_04_A,ibe8167_10,Mail Order Buyer Categories - Beauty
+IBE_04_A,ibe8167_11,Mail Order Buyer Categories - Books
+IBE_04_A,ibe8167_12,Mail Order Buyer Categories - Children's Merchandise
+IBE_04_A,ibe8167_13,Mail Order Buyer Categories - Collectibles
+IBE_04_A,ibe8167_14,Mail Order Buyer Categories - Computer Software
+IBE_04_A,ibe8167_15,Mail Order Buyer Categories - Electronics
+IBE_04_A,ibe8167_16,Mail Order Buyer Categories - Equestrian
+IBE_04_A,ibe8167_17,Mail Order Buyer Categories - Food
+IBE_04_A,ibe8167_18,Mail Order Buyer Categories - General Gifts and Merchandise
+IBE_04_A,ibe8167_19,Mail Order Buyer Categories - Gifts
+IBE_04_A,ibe8167_20,Mail Order Buyer Categories - Health
+IBE_04_A,ibe8167_21,Mail Order Buyer Categories - Home Furnishings and Decorating
+IBE_04_A,ibe8167_22,Mail Order Buyer Categories - High Ticket Merchandise
+IBE_04_A,ibe8167_23,Mail Order Buyer Categories - Low Ticket Merchandise
+IBE_04_A,ibe8167_24,Mail Order Buyer Categories - Music
+IBE_04_A,ibe8167_25,Mail Order Buyer Categories - Outdoor Gardening
+IBE_04_A,ibe8167_26,Mail Order Buyer Categories - Outdoor Hunting and Fishing
+IBE_04_A,ibe8167_27,Mail Order Buyer Categories - Pet Supplies
+IBE_04_A,ibe8167_28,Mail Order Buyer Categories - Sports Golf
+IBE_04_A,ibe8167_29,Mail Order Buyer Categories - Sports
+IBE_04_A,ibe8167_30,Mail Order Buyer Categories - Travel
+IBE_04_A,ibe8167_31,Mail Order Buyer Categories - Video DVD
+IBE_04_A,ibe8177,Mail Order Donor
+IBE_04_A,ibe8201,Income - Estimated Household - Higher Ranges
+IBE_04_A,ibe8236,Money Seekers
+IBE_04_A,ibe8257,Spectator Sports - TV Sports
+IBE_04_A,ibe8263,Collector - Avid
+IBE_04_A,ibe8271,Home Living
+IBE_04_A,ibe8272,DIY Living
+IBE_04_A,ibe8274,Sporty Living
+IBE_04_A,ibe8276,Upscale Living
+IBE_04_A,ibe8277,Cultural/Artistic Living
+IBE_04_A,ibe8278,Highbrow Living
+IBE_04_A,ibe8279,High-Tech Living
+IBE_04_A,ibe8321,Common Living
+IBE_04_A,ibe8322,Professional Living
+IBE_04_A,ibe8326,Broader Living
+IBE_04_A,ibe8337,Highly Likely Investor
+IBE_04_A,ibe8339,Likely Investor
+IBE_04_A,ibe8433,Investment - Estimated Residential Properties Owned (Real Property data only)
+IBE_04_A,ibe8436,Home Length of Residence - Broad Ranges (Real Property data only)
+IBE_04_A,ibe8437,Home Loan Amount Total - Original - Ranges (Real Property data only)
+IBE_04_A,ibe8438,Home Market Value - Estimated - Ranges (Real Property data only)
+IBE_04_A,ibe8439,Home Lot Square Footage - Ranges (Real Property data only)
+IBE_04_A,ibe8440,Home Year Built - Ranges (Real Property data only)
+IBE_04_A,ibe8441,Home Square Footage - Ranges (Real Property data only)
+IBE_04_A,ibe8442,Home Room Count (Real Property data only)
+IBE_04_A,ibe8443,Home Heating / Cooling (Real Property data only)
+IBE_04_A,ibe8444,Home Exterior (Real Property data only)
+IBE_04_A,ibe8445,Home Roof Type (Real Property data only)
+IBE_04_A,ibe8446,Site Zip (Real Property data only)
+IBE_04_A,ibe8463,Home Market Value Deciles - Estimated (Real Property data only)
+IBE_04_A,ibe8487,Political Party - 1st Person in Household
+IBE_04_A,ibe8496,Political Party - 2nd Person in Household
+IBE_04_A,ibe8505,Political Party - 3rd Person in Household
+IBE_04_A,ibe8514,Political Party - 4th Person in Household
+IBE_04_A,ibe8523,Political Party - 5th Person in Household
+IBE_04_A,ibe8531,Political Party - Person
+IBE_04_B,ibe8557,Home Assessed Value - Ranges (Real Property data only)
+IBE_04_B,ibe8558,Fips County Code (Real Property data only)
+IBE_04_B,ibe8559,Fips State Code (Real Property data only)
+IBE_04_B,ibe8560,Home Heat Source (Real Property data only)
+IBE_04_B,ibe8561,Home Purchase Amount - Ranges (Real Property data only)
+IBE_04_B,ibe8564,Home Lender Name 1 - Original (Real Property data only)
+IBE_04_B,ibe8565,Home Lender Name 2 - Original (Real Property data only)
+IBE_04_B,ibe8566,Home Lender Name 3 - Original (Real Property data only)
+IBE_04_B,ibe8567,Home Loan Amount 1 - Original Ranges (Real Property data only)
+IBE_04_B,ibe8568,Home Loan Amount 2 - Original Ranges (Real Property data only)
+IBE_04_B,ibe8569,Home Loan Amount 3 - Original Ranges (Real Property data only)
+IBE_04_B,ibe8571,Home Loan Type 2 (Real Property data only)
+IBE_04_B,ibe8573,Home Loan Interest Rate Type 2 (Real Property data only)
+IBE_04_B,ibe8574,Home Loan Interest Rate Type 3 (Real Property data only)
+IBE_04_B,ibe8576,Home Loan Transaction Type 2 (Real Property data only)
+IBE_05,customer_user_id,Customer User ID
+IBE_05,ibe8578,Home Owner (Real Property data only)
+IBE_05,ibe8580,Home Purchase Year (Real Property data only)
+IBE_05,ibe8581,Home Property Type Detail (Real Property data only)
+IBE_05,ibe8582,Home Length of Residence - Ranges (Real Property data only)
+IBE_05,ibe8583,Home Market Value - Estimated - Premier Ranges (Real Property data only)
+IBE_05,ibe8584,Home Loan-to-Value - Estimated - Ranges (Real Property data only)
+IBE_05,ibe8585,Home Equity Available - Estimated - Ranges (Real Property data only)
+IBE_05,ibe8586,Home Equity Lendable - Estimated - Ranges (Real Property data only)
+IBE_05,ibe8587,Investor - Real Estate (Real Property data only)
+IBE_05,ibe8589,Home Lot Square Footage - Actual (Real Property data only)
+IBE_05,ibe8590_01,Home Owners Insurance Expiration Date (Real Property data only) - Loan Month
+IBE_05,ibe8590_02,Home Owners Insurance Expiration Date (Real Property data only) - Purchase Date
+IBE_05,ibe8594,Home Assessor Parcel Number (Real Property data only)
+IBE_05,ibe8597,Home Bedroom Count (Real Property data only)
+IBE_05,ibe8600_01,Adult Age Ranges Present - 18 to 24 Male
+IBE_05,ibe8600_02,Adult Age Ranges Present - 18 to 24 Female
+IBE_05,ibe8600_03,Adult Age Ranges Present - 18 to 24 Unknown Gender
+IBE_05,ibe8600_04,Adult Age Ranges Present - 25 to 34 Male
+IBE_05,ibe8600_05,Adult Age Ranges Present - 25 to 34 Female
+IBE_05,ibe8600_06,Adult Age Ranges Present - 25 to 34 Unknown Gender
+IBE_05,ibe8600_07,Adult Age Ranges Present - 35 to 44 Male
+IBE_05,ibe8600_08,Adult Age Ranges Present - 35 to 44 Female
+IBE_05,ibe8600_09,Adult Age Ranges Present - 35 to 44 Unknown Gender
+IBE_05,ibe8600_10,Adult Age Ranges Present - 45 to 54 Male
+IBE_05,ibe8600_11,Adult Age Ranges Present - 45 to 54 Female
+IBE_05,ibe8600_12,Adult Age Ranges Present - 45 to 54 Unknown Gender
+IBE_05,ibe8600_13,Adult Age Ranges Present - 55 to 64 Male
+IBE_05,ibe8600_14,Adult Age Ranges Present - 55 to 64 Female
+IBE_05,ibe8600_15,Adult Age Ranges Present - 55 to 64 Unknown Gender
+IBE_05,ibe8600_16,Adult Age Ranges Present - 65 to 74 Male
+IBE_05,ibe8600_17,Adult Age Ranges Present - 65 to 74 Female
+IBE_05,ibe8600_18,Adult Age Ranges Present - 65 to 74 Unknown Gender
+IBE_05,ibe8600_19,Adult Age Ranges Present - 75 and over Male
+IBE_05,ibe8600_20,Adult Age Ranges Present - 75 and over Female
+IBE_05,ibe8600_21,Adult Age Ranges Present - 75 and over Unknown Gender
+IBE_05,ibe8601_01,Children's Age Ranges - 00 to 02 Male
+IBE_05,ibe8601_02,Children's Age Ranges - 00 to 02 Female
+IBE_05,ibe8601_03,Children's Age Ranges - 00 to 02 Unknown Gender
+IBE_05,ibe8601_04,Children's Age Ranges - 03 to 05 Male
+IBE_05,ibe8601_05,Children's Age Ranges - 03 to 05 Female
+IBE_05,ibe8601_06,Children's Age Ranges - 03 to 05 Unknown Gender
+IBE_05,ibe8601_07,Children's Age Ranges - 06 to 10 Male
+IBE_05,ibe8601_08,Children's Age Ranges - 06 to 10 Female
+IBE_05,ibe8601_09,Children's Age Ranges - 06 to 10 Unknown Gender
+IBE_05,ibe8601_10,Children's Age Ranges - 11 to 15 Male
+IBE_05,ibe8601_11,Children's Age Ranges - 11 to 15 Female
+IBE_05,ibe8601_12,Children's Age Ranges - 11 to 15 Unknown Gender
+IBE_05,ibe8601_13,Children's Age Ranges - 16 to 17 Male
+IBE_05,ibe8601_14,Children's Age Ranges - 16 to 17 Female
+IBE_05,ibe8601_15,Children's Age Ranges - 16 to 17 Unknown Gender
+IBE_05,ibe8602,Number of Children
+IBE_05,ibe8603_01,Children's Age - 1 Year Increments - Less Than Age 01
+IBE_05,ibe8603_02,Children's Age - 1 Year Increments - Age 01
+IBE_05,ibe8603_03,Children's Age - 1 Year Increments - Age 02
+IBE_05,ibe8603_04,Children's Age - 1 Year Increments - Age 03
+IBE_05,ibe8603_05,Children's Age - 1 Year Increments - Age 04
+IBE_05,ibe8603_06,Children's Age - 1 Year Increments - Age 05
+IBE_05,ibe8603_07,Children's Age - 1 Year Increments - Age 06
+IBE_05,ibe8603_08,Children's Age - 1 Year Increments - Age 07
+IBE_05,ibe8603_09,Children's Age - 1 Year Increments - Age 08
+IBE_05,ibe8603_10,Children's Age - 1 Year Increments - Age 09
+IBE_05,ibe8603_11,Children's Age - 1 Year Increments - Age 10
+IBE_05,ibe8603_12,Children's Age - 1 Year Increments - Age 11
+IBE_05,ibe8603_13,Children's Age - 1 Year Increments - Age 12
+IBE_05,ibe8603_14,Children's Age - 1 Year Increments - Age 13
+IBE_05,ibe8603_15,Children's Age - 1 Year Increments - Age 14
+IBE_05,ibe8603_16,Children's Age - 1 Year Increments - Age 15
+IBE_05,ibe8603_17,Children's Age - 1 Year Increments - Age 16
+IBE_05,ibe8603_18,Children's Age - 1 Year Increments - Age 17
+IBE_05,ibe8603_19,Children's Age - 1 Year Increments - Age 18
+IBE_05,ibe8604,Occupation - 1st Person in Household
+IBE_05,ibe8605,Occupation - 2nd Person in Household
+IBE_05,ibe8607,Home Length of Residence
+IBE_05,ibe8608,Dwelling Type
+IBE_05,ibe8609,Marital Status in the Household
+IBE_05,ibe8614,Base Record Verification Date
+IBE_05,ibe8615,Mail Order Buyer
+IBE_05,ibe8616,Age in Two-Year Increments - 1st Person in Household
+IBE_05,ibe8617,Age in Two-Year Increments - 2nd Person in Household
+IBE_05,ibe8619,Woman in the Workplace
+IBE_05,ibe8620,Mail Order Responder
+IBE_05,ibe8621_01,Credit Card Indicator - Bank Card
+IBE_05,ibe8621_02,Credit Card Indicator - Gas Department Retail
+IBE_05,ibe8621_03,Credit Card Indicator - Travel and Entertainment
+IBE_05,ibe8621_04,Credit Card Indicator - Unknown Type
+IBE_05,ibe8621_05,Credit Card Indicator - Premium
+IBE_05,ibe8621_06,Credit Card Indicator - Upscale Department Store
+IBE_05,ibe8622,Presence of Children
+IBE_05,ibe8624_01,Date of Birth - Person Default to 1st Person in Household (YYYY/MM)
+IBE_05,ibe8624_02,Date of Birth - Person Default to 1st Person in Household (YYYY/MM) - Precision Level
+IBE_05,ibe8625,Home Property Type
+IBE_05,ibe8626,Age in Two-Year Increments - Person
+IBE_05,ibe8627_01,Age - Person Default to 1st Person in Household
+IBE_05,ibe8627_02,Age - Person Default to 1st Person in Household - Precision Level
+IBE_05_A,customer_user_id,Customer User ID
+IBE_05_A,ibe8628,Number of Adults
+IBE_05_A,ibe8629,Household Size
+IBE_05_A,ibe8630,PC Owner
+IBE_05_A,ibe8631,Marital Status - Person
+IBE_05_A,ibe8637,Occupation - Person
+IBE_05_A,ibe8641,Income - Estimated Household - Broad Ranges
+IBE_05_A,ibe8643,Home Purchase Date (YYYY/MM)
+IBE_05_A,ibe8644,Home Purchase Year (YYYY)
+IBE_05_A,ibe8645,Home Purchase Month (MM)
+IBE_05_A,ibe8646,Vehicle - New Car Buyer
+IBE_05_A,ibe8647,Vehicle - Known Owned Number
+IBE_05_A,ibe8652,Generations in Household
+IBE_05_A,ibe8653,Online Purchasing Indicator
+IBE_05_A,ibe8663,Home Equity Available - Estimated - Ranges
+IBE_05_A,ibe8667,Occupation - 3rd Person in Household
+IBE_05_A,ibe8668,Occupation - 4th Person in Household
+IBE_05_A,ibe8669,Occupation - 5th Person in Household
+IBE_05_A,ibe8671,Income - Estimated Household - Narrow Ranges
+IBE_05_A,ibe8680,Young Adult in Household
+IBE_05_A,ibe8682,Age in Two-Year Increments - 3rd Person in Household
+IBE_05_A,ibe8686,Age in Two-Year Increments - 4th Person in Household
+IBE_05_A,ibe8688,Gender - Person
+IBE_05_A,ibe8690,Age in Two-Year Increments - 5th Person in Household
+IBE_05_A,ibe8692,Senior Adult in Household
+IBE_05_A,ibe8693,Credit Card User
+IBE_05_A,ibe8702,Home Loan Amount - Original - Actual (Real Property data only)
+IBE_05_A,ibe8703,Home Loan Transaction Type 3 (Real Property data only)
+IBE_05_A,ibe8704,Home Loan-to-Value - Estimated - Actual (Real Property data only)
+IBE_05_A,ibe8706,Home Equity Lendable - Estimated - Actual (Real Property data only)
+IBE_05_A,ibe8707,Home Equity Available - Estimated - Actual (Real Property data only)
+IBE_05_A,ibe8713,Home Assessed Value - Actual (Real Property data only)
+IBE_05_A,ibe8747,Home Loan Amount 2 - Original - Actual (Real Property data only)
+IBE_05_A,ibe8748,Home Loan Amount 3 - Original - Actual (Real Property data only)
+IBE_05_A,ibe8749,Home Owner Type (Real Property data only)
+IBE_05_A,ibe8763,Home Year Built
+IBE_05_A,ibe8808,Credit Card - New Issue
+IBE_05_A,ibe8815,Bank Card - Presence in Household
+IBE_05_A,ibe8816,Number of Lines of Credit (Trade Counter)
+IBE_05_A,ibe8836,Credit - Range of New Credit
+IBE_05_A,ibe8840,Home Lender Standardization Code 1 (Real Property data only)
+IBE_05_A,ibe8841,Home Lender Standardization Code 2 (Real Property data only)
+IBE_05_A,ibe8842,Home Lender Standardization Code 3 (Real Property data only)
+IBE_05_A,ibe8847,Home Line of Credit 2 (Real Property data only)
+IBE_05_A,ibe8848,Home Line of Credit 3 (Real Property data only)
+IBE_05_A,ibe8850,Home Market Value - Estimated - Quality Indicator (Real Property data only)
+IBE_05_A,ibe9040,Vehicle - Make Code - 1st Vehicle (numerical format)
+IBE_05_A,ibe9041,Vehicle - Model Code - 1st Vehicle (numerical format)
+IBE_05_A,ibe9042,Vehicle - Year - 1st Vehicle
+IBE_05_A,ibe9043,Vehicle - Make Code - 1st Vehicle (alpha format)
+IBE_05_A,ibe9044,Vehicle - Model Code - 1st Vehicle (alpha format)
+IBE_05_A,ibe9047,Vehicle - Verification Date - 1st Vehicle
+IBE_05_A,ibe9050,Vehicle - Make Code - 2nd Vehicle (numerical format)
+IBE_05_A,ibe9051,Vehicle - Model Code - 2nd Vehicle (numerical format)
+IBE_05_A,ibe9052,Vehicle - Year - 2nd Vehicle
+IBE_05_A,ibe9053,Vehicle - Make Code - 2nd Vehicle (alpha format)
+IBE_05_A,ibe9054,Vehicle - Model Code - 2nd Vehicle (alpha format)
+IBE_05_A,ibe9057,Vehicle - Verification Date - 2nd Vehicle
+IBE_05_A,ibe9103,Multiple Surnames Indicator
+IBE_05_A,ibe9150_01,Credit Card - Frequency of Purchase - 00 to 03 Months
+IBE_05_A,ibe9150_02,Credit Card - Frequency of Purchase - 04 to 06 Months
+IBE_05_A,ibe9150_03,Credit Card - Frequency of Purchase - 07 to 09 Months
+IBE_05_A,ibe9150_04,Credit Card - Frequency of Purchase - 10 to 12 Months
+IBE_05_A,ibe9150_05,Credit Card - Frequency of Purchase - 13 to 18 Months
+IBE_05_A,ibe9150_06,Credit Card - Frequency of Purchase - 19 to 24 Months
+IBE_05_A,ibe9150_07,Credit Card - Frequency of Purchase - More than 24 Months
+IBE_05_A,ibe9152,Retail Activity - Date of Last (YYYY/MM/DD)
+IBE_05_A,ibe9153_01,Retail Purchases - Categories - Membership Warehouse
+IBE_05_A,ibe9153_02,Retail Purchases - Categories - Catalog Showroom
+IBE_05_A,ibe9153_03,Retail Purchases - Categories - Main Street
+IBE_05_A,ibe9153_04,Retail Purchases - Categories - Big Box
+IBE_05_A,ibe9153_05,Retail Purchases - Categories - General
+IBE_05_A,ibe9153_06,Retail Purchases - Categories - Specialty Sporting Goods
+IBE_05_A,ibe9153_07,Retail Purchases - Categories - Specialty Apparel
+IBE_05_A,ibe9153_08,Retail Purchases - Categories - Specialty Other
+IBE_05_A,ibe9153_09,Retail Purchases - Categories - Specialty Computer and Electronics
+IBE_05_A,ibe9153_10,Retail Purchases - Categories - Specialty Furniture Buyers
+IBE_05_A,ibe9153_11,Retail Purchases - Categories - Specialty Home Office Supply
+IBE_05_A,ibe9153_12,Retail Purchases - Categories - Specialty Home Improvement
+IBE_05_A,ibe9153_13,Retail Purchases - Categories - Upscale High End
+IBE_05_A,ibe9153_14,Retail Purchases - Categories - Upscale Travel and Personal Services
+IBE_06,customer_user_id,Customer User ID
+IBE_06,ibe1260_01,Race Code (Low Detail) - Geo-Aggregated
+IBE_06,ibe1260_02,Race Code (Low Detail) - Geo-Aggregated - Precision Level
+IBE_06,ibe9153_15,Retail Purchases - Categories - Financial Services Banking
+IBE_06,ibe9153_16,Retail Purchases - Categories - Financial Services Credit Installment
+IBE_06,ibe9153_17,Retail Purchases - Categories - Oil Company
+IBE_06,ibe9153_18,Retail Purchases - Categories - Financial Services Insurance
+IBE_06,ibe9153_19,Retail Purchases - Categories - TV Mail Order Purchases
+IBE_06,ibe9153_20,Retail Purchases - Categories - Grocery
+IBE_06,ibe9153_21,Retail Purchases - Categories - Other
+IBE_06,ibe9154,Retail Purchases - Most Frequent Category
+IBE_06,ibe9156_01,Retail Purchase Activity Date and Category 1 - Date
+IBE_06,ibe9156_02,Retail Purchase Activity Date and Category 1 - Category
+IBE_06,ibe9157_01,Retail Purchase Activity Date and Category 2 - Date
+IBE_06,ibe9157_02,Retail Purchase Activity Date and Category 2 - Category
+IBE_06,ibe9158_01,Retail Purchase Activity Date and Category 3 - Date
+IBE_06,ibe9158_02,Retail Purchase Activity Date and Category 3 - Category
+IBE_06,ibe9159_01,Retail Purchase Activity Date and Category 4 - Date
+IBE_06,ibe9159_02,Retail Purchase Activity Date and Category 4 - Category
+IBE_06,ibe9160_01,Retail Purchase Activity Date and Category 5 - Date
+IBE_06,ibe9160_02,Retail Purchase Activity Date and Category 5 - Category
+IBE_06,ibe9180,Vehicle Type - Vehicle 1
+IBE_06,ibe9181,Vehicle Type - Vehicle 2
+IBE_06,ibe9201,Major Milestone Indicator - New Parent
+IBE_06,ibe9202,Major Milestone Indicator - College Student
+IBE_06,ibe9203,Major Milestone Indicator - New Mover
+IBE_06,ibe9204,Major Milestone Indicator - New Borrower
+IBE_06,ibe9205,Major Milestone Indicator - New Homeowner
+IBE_06,ibe9350,Economic Stability Indicator
+IBE_06,ibe9351,Underbanked
+IBE_06,ibe9355,Net Worth Ultra Affluent
+IBE_06,ibe9356,Net Worth Gold
+IBE_06,ibe9358,Heavy Transactors (Financial)
+IBE_06,ibe9509,Education - 1st Person in Household
+IBE_06,ibe9510,Education - 2nd Person in Household
+IBE_06,ibe9511,Education - 3rd Person in Household
+IBE_06,ibe9512,Education - 4th Person in Household
+IBE_06,ibe9513,Education - 5th Person in Household
+IBE_06,ibe9514,Education - Person
+IBE_06,ibe9515,Gender - 1st Person in Household
+IBE_06,ibe9516,Gender - 2nd Person in Household
+IBE_06,ibe9517,Gender - 3rd Person in Household
+IBE_06,ibe9518,Gender - 4th Person in Household
+IBE_06,ibe9519,Gender - 5th Person in Household
+IBE_06,ibe9528,Race Code - 1st Person in Household
+IBE_06,ibe9529,Race Code - 2nd Person in Household
+IBE_06,ibe9533,Race Code - Person
+IBE_06,ibe9549,Education Detail - Person
+IBE_06,ibe9557,Suppression - Mail - DMA
+IBE_06,ibe9587,Vehicle - Classic Car Owner
+IBE_06,ibe9588_01,Auto Policy Renewal - 01 January
+IBE_06,ibe9588_02,Auto Policy Renewal - 02 February
+IBE_06,ibe9588_03,Auto Policy Renewal - 03 March
+IBE_06,ibe9588_04,Auto Policy Renewal - 04 April
+IBE_06,ibe9588_05,Auto Policy Renewal - 05 May
+IBE_06,ibe9588_06,Auto Policy Renewal - 06 June
+IBE_06,ibe9588_07,Auto Policy Renewal - 07 July
+IBE_06,ibe9588_08,Auto Policy Renewal - 08 August
+IBE_06,ibe9588_09,Auto Policy Renewal - 09 September
+IBE_06,ibe9588_10,Auto Policy Renewal - 10 October
+IBE_06,ibe9588_11,Auto Policy Renewal - 11 November
+IBE_06,ibe9588_12,Auto Policy Renewal - 12 December
+IBE_06_A,customer_user_id,Customer User ID
+IBE_06_A,ibe9600_01,Adult Age Ranges Present - 18 to 24 Male - Plus
+IBE_06_A,ibe9600_02,Adult Age Ranges Present - 18 to 24 Female - Plus
+IBE_06_A,ibe9600_03,Adult Age Ranges Present - 18 to 24 Unknown Gender - Plus
+IBE_06_A,ibe9600_04,Adult Age Ranges Present - 25 to 34 Male - Plus
+IBE_06_A,ibe9600_05,Adult Age Ranges Present - 25 to 34 Female - Plus
+IBE_06_A,ibe9600_06,Adult Age Ranges Present - 25 to 34 Unknown Gender - Plus
+IBE_06_A,ibe9600_07,Adult Age Ranges Present - 35 to 44 Male - Plus
+IBE_06_A,ibe9600_08,Adult Age Ranges Present - 35 to 44 Female - Plus
+IBE_06_A,ibe9600_09,Adult Age Ranges Present - 35 to 44 Unknown Gender - Plus
+IBE_06_A,ibe9600_10,Adult Age Ranges Present - 45 to 54 Male - Plus
+IBE_06_A,ibe9600_11,Adult Age Ranges Present - 45 to 54 Female - Plus
+IBE_06_A,ibe9600_12,Adult Age Ranges Present - 45 to 54 Unknown Gender - Plus
+IBE_06_A,ibe9600_13,Adult Age Ranges Present - 55 to 64 Male - Plus
+IBE_06_A,ibe9600_14,Adult Age Ranges Present - 55 to 64 Female - Plus
+IBE_06_A,ibe9600_15,Adult Age Ranges Present - 55 to 64 Unknown Gender - Plus
+IBE_06_A,ibe9600_16,Adult Age Ranges Present - 65 to 74 Male - Plus
+IBE_06_A,ibe9600_17,Adult Age Ranges Present - 65 to 74 Female - Plus
+IBE_06_A,ibe9600_18,Adult Age Ranges Present - 65 to 74 Unknown Gender - Plus
+IBE_06_A,ibe9600_19,Adult Age Ranges Present - 75 and over Male - Plus
+IBE_06_A,ibe9600_20,Adult Age Ranges Present - 75 and over Female - Plus
+IBE_06_A,ibe9600_21,Adult Age Ranges Present - 75 and over Unknown Gender - Plus
+IBE_06_A,ibe9601_01,Children's Age Ranges - 00 to 02 Male - Plus
+IBE_06_A,ibe9601_02,Children's Age Ranges - 00 to 02 Female - Plus
+IBE_06_A,ibe9601_03,Children's Age Ranges - 00 to 02 Unknown Gender - Plus
+IBE_06_A,ibe9601_04,Children's Age Ranges - 03 to 05 Male - Plus
+IBE_06_A,ibe9601_05,Children's Age Ranges - 03 to 05 Female - Plus
+IBE_06_A,ibe9601_06,Children's Age Ranges - 03 to 05 Unknown Gender - Plus
+IBE_06_A,ibe9601_07,Children's Age Ranges - 06 to 10 Male - Plus
+IBE_06_A,ibe9601_08,Children's Age Ranges - 06 to 10 Female - Plus
+IBE_06_A,ibe9601_09,Children's Age Ranges - 06 to 10 Unknown Gender - Plus
+IBE_06_A,ibe9601_10,Children's Age Ranges - 11 to 15 Male - Plus
+IBE_06_A,ibe9601_11,Children's Age Ranges - 11 to 15 Female - Plus
+IBE_06_A,ibe9601_12,Children's Age Ranges - 11 to 15 Unknown Gender - Plus
+IBE_06_A,ibe9601_13,Children's Age Ranges - 16 to 17 Male - Plus
+IBE_06_A,ibe9601_14,Children's Age Ranges - 16 to 17 Female - Plus
+IBE_06_A,ibe9601_15,Children's Age Ranges - 16 to 17 Unknown Gender - Plus
+IBE_06_A,ibe9602,Number of Children - Plus
+IBE_06_A,ibe9606,Home Owner / Renter - Plus
+IBE_06_A,ibe9607,Home Length of Residence - Plus
+IBE_06_A,ibe9609,Marital Status - Plus
+IBE_06_A,ibe9616,Age in Two-Year Increments - 1st Person in Household - Plus
+IBE_06_A,ibe9622,Presence of Children - Plus
+IBE_06_A,ibe9628,Number of Adults - Plus
+IBE_06_A,ibe9629,Household Size - Plus
+IBE_06_A,ibe9641,Income - Estimated Household - Broad Ranges - Plus
+IBE_06_A,ibe9650,Education - 1st Person in Household - Plus
+IBE_06_A,ibe9671,Income - Estimated Household - Narrow Ranges - Plus
+IBE_06_A,ibe9751,Home Length of Residence - Actual (Real Property data only)
+IBE_06_A,ibe9752,Home Loan Type 3 (Real Property data only)
+IBE_06_A,ibe9780,Email Available Indicator
+IBE_08,customer_user_id,Customer User ID
+IBE_08,ibe7632_01,Race Code ‚Äì Low Detail ‚Äì 100%
+IBE_08,ibe7632_02,Race Code ‚Äì Low Detail ‚Äì 100% ‚Äì Assignment Level
+IBE_09,customer_user_id,Customer User ID
+IBE_09,ibe1210,Neighborhood Factors Segment
+IBE_09,ibe1211,Cost of Living - Composite Index
+IBE_09,ibe1212,Cost of Living - Grocery Index
+IBE_09,ibe1213,Cost of Living - Health Index
+IBE_09,ibe1214,Cost of Living - Housing Index
+IBE_09,ibe1215,Cost of Living - Miscellaneous Index
+IBE_09,ibe1216,Cost of Living - Transportation Index
+IBE_09,ibe1217,Cost of Living - Utility Index
+IBE_09,ibe1801,Family Ties - Potential Inheritor - Person
+IBE_09,ibe1805,Family Ties - Adult with Wealthy Parent - Person
+IBE_09,ibe1806,Family Ties - Relatives Information Available - Person
+IBE_09,ibe1808_01,Family Ties - Grandchildren's Combined Age Ranges - Person - 00 to 02 Male
+IBE_09,ibe1808_02,Family Ties - Grandchildren's Combined Age Ranges - Person - 00 to 02 Female
+IBE_09,ibe1808_03,Family Ties - Grandchildren's Combined Age Ranges - Person - 00 to 02 Unknown Gender
+IBE_09,ibe1808_04,Family Ties - Grandchildren's Combined Age Ranges - Person - 03 to 05 Male
+IBE_09,ibe1808_05,Family Ties - Grandchildren's Combined Age Ranges - Person - 03 to 05 Female
+IBE_09,ibe1808_06,Family Ties - Grandchildren's Combined Age Ranges - Person - 03 to 05 Unknown Gender
+IBE_09,ibe1808_07,Family Ties - Grandchildren's Combined Age Ranges - Person - 06 to 10 Male
+IBE_09,ibe1808_08,Family Ties - Grandchildren's Combined Age Ranges - Person - 06 to 10 Female
+IBE_09,ibe1808_09,Family Ties - Grandchildren's Combined Age Ranges - Person - 06 to 10 Unknown Gender
+IBE_09,ibe1808_10,Family Ties - Grandchildren's Combined Age Ranges - Person - 11 to 15 Male
+IBE_09,ibe1808_11,Family Ties - Grandchildren's Combined Age Ranges - Person - 11 to 15 Female
+IBE_09,ibe1808_12,Family Ties - Grandchildren's Combined Age Ranges - Person - 11 to 15 Unknown Gender
+IBE_09,ibe1808_13,Family Ties - Grandchildren's Combined Age Ranges - Person - 16 to 17 Male
+IBE_09,ibe1808_14,Family Ties - Grandchildren's Combined Age Ranges - Person - 16 to 17 Female
+IBE_09,ibe1808_15,Family Ties - Grandchildren's Combined Age Ranges - Person - 16 to 17 Unknown Gender
+IBE_09,ibe1809,Family Ties - Parent 1 Age in Two-Year Increments - Person
+IBE_09,ibe1810,Family Ties - Parent 1 Income - Estimated Household - Higher Ranges - Person
+IBE_09,ibe1813,Family Ties - Parent 2 Age in Two-Year Increments - Person
+IBE_09,ibe1814,Family Ties - Parent 2 Income - Estimated Household - Higher Ranges - Person
+IBE_09,ibe1815,Family Ties - Parent 2 Net Worth - Person
+IBE_09,ibe1816,Family Ties - Parent 2 State Code - Person
+IBE_09,ibe1817,Family Ties - Adult-Child 1 Age in Two-Year Increments - Person
+IBE_09,ibe1818,Family Ties - Adult-Child 1 Income - Estimated Household - Higher Ranges
+IBE_09,ibe1819,Family Ties - Adult-Child 1 Net Worth Gold
+IBE_09,ibe1820,Family Ties - Adult-Child 1 State Code
+IBE_09,ibe1821,Family Ties - Adult-Child 2 Age in Two-Year Increments - Person
+IBE_09,ibe1822,Family Ties - Adult-Child 2 Income - Estimated Household - Higher Ranges
+IBE_09,ibe1823,Family Ties - Adult-Child 2 Net Worth Gold
+IBE_09,ibe1824,Family Ties - Adult-Child 2 State Code
+IBE_09,ibe2403_02,Geo Federal Congressional District Name
+IBE_09,ibe2404_02,Geo State Upper House District Name
+IBE_09,ibe2912_02,Economic Assessment - Mortgage Loan Balance Range Range - Zip+4 Aggregate - Precision Level
+IBE_09,ibe2913_02,Economic Assessment - Mortgage Loan Original Balance Range - Zip+4 Aggregate - Precision Level
+IBE_09,ibe2914_02,Economic Assessment - Newest Mortgage Loan Recency Range - Zip+4 Aggregate - Precision Level
+IBE_09,ibe2915_02,Economic Assessment - Mortgage Loan Remaining Balance Range - Zip+4 Aggregate - Precision Level
+IBE_09,ibe2916_02,Economic Assessment - Households with Open Mortgage Loan Range - Zip+4 Aggregate - Precision Level
+IBE_09,ibe2917_02,Economic Assessment - Student Loan Balance Range - Zip+4 Aggregate - Precision Level
+IBE_09,ibe2918_02,Economic Assessment - Newest Student Loan Recency Range - Zip+4 Aggregate - Precision Level
+IBE_09,ibe2919_02,Economic Assessment - Households with Open Student Loan Range - Zip+4 Aggregate - Precision Level
+IBE_09,ibe3041_01,Geo Time Zone Code
+IBE_09,ibe3041_02,Geo Time Zone Name
+IBE_09,ibe3041_03,Geo Coordinated Universal Time
+IBE_09,ibe3041_04,Geo Daylight Savings Time Observed
+IBE_09,ibe6505,Home Furnishings - Accessories - General
+IBE_09,ibe8545,Estimated Available Equity¬†
+IBE_09,ibe8546,Estimated Loan to Value (LTV)¬†
+IBE_09,ibe8547,Estimated Mortgage Balance¬†
+IBE_09,ibe8548,Estimated Remaining Months on Loan¬†
+IBE_09,ibe8549,Estimated Total Loans¬†
+IBE_09,ibe8550,Estimated Lendable Equity
+IBE_09,ibe8551,Estimated Available Equity -¬†Ranges
+IBE_09,ibe8552,Estimated Loan to Value (LTV) -¬†Ranges
+IBE_09,ibe8553,Estimated Mortgage Balance -¬†Ranges
+IBE_09,ibe8554,Estimated Remaining Months on Loan - Ranges¬†
+IBE_09,ibe8577,Estimated Total Loans¬†- Ranges
+IBE_09,ibe8593,Estimated Lendable Equity - Ranges
+IBE_09,ibe8595,Homeowner (Real Property Data Only)
+IBE_09,ibe8780,CRA Income Classification Code
+IBE_09,ibe8781,CRA Poverty Distressed
+IBE_09,ibe8782,CRA Unemployment Distressed
+IBE_09,ibe8783,CRA Population Distressed
+IBE_09,ibe8784,CRA Remote Rural Underserved
+IBE_09,ibe8790,Unemployment - Time Period
+IBE_09,ibe8791,Unemployment - Number in Civilian Labor Force
+IBE_09,ibe8792,Unemployment - Number Employed
+IBE_09,ibe8793,Unemployment - Number Unemployed
+IBE_09,ibe8794,Unemployment - Unemployment Rate
+IBE_09,ibe8795,Unemployment - Unemployment Index
+IBE_09,ibe8796,Unemployment - Unemployment Change
+IBE_09,ibe8797,Unemployment - Unemployment Average
+IBE_09,ibe9048,Vehicle Identification Number - Vehicle 1
+IBE_09,ibe9058,Vehicle Identification Number - Vehicle 2
+IBE_09,ibe9530,Race Code - 3rd Person in Household
+IBE_09,ibe9531,Race Code - 4th Person in Household
+IBE_09,ibe9532,Race Code - 5th Person in Household
+MIACS_01,customer_user_id,Customer User ID
+MIACS_01,miacs_01_001,Total Population - % Male
+MIACS_01,miacs_01_004,Total Population - Median Age
+MIACS_01,miacs_01_007,Total Population - % <18
+MIACS_01,miacs_01_029,Population 18+ - Median Age
+MIACS_01,miacs_01_032,Population 18+ - % 18-24
+MIACS_01,miacs_01_033,Population 18+ - % 25-34
+MIACS_01,miacs_01_034,Population 18+ - % 35-44
+MIACS_01,miacs_01_035,Population 18+ - % 45-54
+MIACS_01,miacs_01_036,Population 18+ - % 55-64
+MIACS_01,miacs_01_037,Population 18+ - % 65-74
+MIACS_01,miacs_01_038,Population 18+ - % 75+
+MIACS_01,miacs_02_001,Total Population - % White Alone
+MIACS_01,miacs_02_002,Total Population - % Black Alone
+MIACS_01,miacs_02_003,Total Population - % American Indian or Alaska Native (AIAN) Alone
+MIACS_01,miacs_02_004,Total Population - % Asian Alone
+MIACS_01,miacs_02_005,Total Population - % Native Hawaiian & Other Pacific Islander (NHOPI) Alone
+MIACS_01,miacs_02_006,Total Population - % Some Other Race Alone
+MIACS_01,miacs_02_007,Total Population - % Two or More Races
+MIACS_01,miacs_03_001,Total Population - % of Hispanic Origin
+MIACS_01,miacs_03_002,Total Population - % Not of Hispanic Origin
+MIACS_01,miacs_03_007,Total Population - % Non-Hispanic White Alone
+MIACS_01,miacs_03_008,Total Population - % Non-Hispanic Black Alone
+MIACS_01,miacs_04_001,Total Population - % American (Tract Level)
+MIACS_01,miacs_04_002,Total Population - % Arab (Tract Level)
+MIACS_01,miacs_04_003,Total Population - % British (Tract Level)
+MIACS_01,miacs_04_004,Total Population - % Czech (Tract Level)
+MIACS_01,miacs_04_005,Total Population - % Danish (Tract Level)
+MIACS_01,miacs_04_006,Total Population - % Dutch (Tract Level)
+MIACS_01,miacs_04_007,Total Population - % English (Tract Level)
+MIACS_01,miacs_04_008,Total Population - % European (Tract Level)
+MIACS_01,miacs_04_009,Total Population - % French (Tract Level)
+MIACS_01,miacs_04_010,Total Population - % French Canadian (Tract Level)
+MIACS_01,miacs_04_011,Total Population - % German (Tract Level)
+MIACS_01,miacs_04_012,Total Population - % Greek (Tract Level)
+MIACS_01,miacs_04_013,Total Population - % Hungarian (Tract Level)
+MIACS_01,miacs_04_014,Total Population - % Irish (Tract Level)
+MIACS_01,miacs_04_015,Total Population - % Italian (Tract Level)
+MIACS_01,miacs_04_016,Total Population - % Lithuanian (Tract Level)
+MIACS_01,miacs_04_017,Total Population - % Norwegian (Tract Level)
+MIACS_01,miacs_04_018,Total Population - % Polish (Tract Level)
+MIACS_01,miacs_04_019,Total Population - % Portuguese (Tract Level)
+MIACS_01,miacs_04_020,Total Population - % Russian (Tract Level)
+MIACS_01,miacs_04_021,Total Population - % Scotch-Irish (Tract Level)
+MIACS_01,miacs_04_022,Total Population - % Scottish (Tract Level)
+MIACS_01,miacs_04_023,Total Population - % Slovak (Tract Level)
+MIACS_01,miacs_04_024,Total Population - % Sub-Saharan African (Tract Level)
+MIACS_01,miacs_04_025,Total Population - % Swedish (Tract Level)
+MIACS_01,miacs_04_026,Total Population - % Swiss (Tract Level)
+MIACS_01,miacs_04_027,Total Population - % Ukrainian (Tract Level)
+MIACS_01,miacs_04_028,Total Population - % Welch (Tract Level)
+MIACS_01,miacs_04_029,Total Population - % West Indian (Tract Level)
+MIACS_01,miacs_06_003,Total Population - % Native but Born Outside the US (Tract Level)
+MIACS_01,miacs_06_004,Total Population - % Foreign Born (Tract Level)
+MIACS_01,miacs_08_017,Workers 16+ - % Worked At Home
+MIACS_01,miacs_08_031,Households - % 3+ Vehicles
+MIACS_01,miacs_11_003,Households - % Children
+MIACS_01,miacs_11_007,Households - % Single Householder with Own Children
+MIACS_01,miacs_11_028,Households - % White Alone Householder
+MIACS_01,miacs_11_029,Households - % Black Alone Householder
+MIACS_01,miacs_11_030,Households - % AIAN Alone Householder
+MIACS_01,miacs_11_031,Households - % Asian Alone Householder
+MIACS_01,miacs_11_032,Households - % NHOPI Alone Householder
+MIACS_01,miacs_11_033,Households - % Other Race Alone Householder
+MIACS_01,miacs_11_034,Households - % Two Or More Race Householder
+MIACS_01,miacs_11_035,Households - % Hispanic Householder
+MIACS_01,miacs_11_036,Households - % Non-Hispanic Householder
+MIACS_01,miacs_11_047,Households - % 1-Person
+MIACS_01,miacs_11_048,Households - % 2-Person
+MIACS_01,miacs_11_049,Households - % 3-Person
+MIACS_01,miacs_11_051,Households - % 4-Person
+MIACS_01,miacs_11_052,Households - % 4+ Person
+MIACS_01,miacs_15_001,Population 25+ - Median Educational Attainment
+MIACS_01,miacs_15_002,Population 25+ - % Grade 0-8
+MIACS_01,miacs_15_003,Population 25+ - % Some High School
+MIACS_01,miacs_15_004,Population 25+ - % Completed High School
+MIACS_01,miacs_15_005,Population 25+ - % Some College (No Diploma)
+MIACS_01,miacs_15_006,Population 25+ - % Associate's Degree
+MIACS_01,miacs_15_007,Population 25+ - % Bachelor's Degree
+MIACS_01,miacs_15_008,Population 25+ - % Graduate Degree
+MIACS_01,miacs_16_001,Population 5+ - % English Only
+MIACS_01,miacs_16_002,Population 5+ - % Spanish or Spanish Creole
+MIACS_01,miacs_16_003,Population 5+ - % Other Indo-European Language
+MIACS_01,miacs_16_004,Population 5+ - % Asian Language
+MIACS_01,miacs_16_005,Population 5+ - % Other Language
+MIACS_01,miacs_17_002,Households - % Below Poverty Level
+MIACS_01,miacs_19_003,Households - Median Income (in hundreds of $US)
+MIACS_01,miacs_19_033,Households - Average Self Employment Income (in hundreds of $US)
+MIACS_01,miacs_19_034,"Households - Average Interest
+MIACS_01,miacs_19_035,Households - Average Social Security Income (in hundreds of $US)
+MIACS_01,miacs_19_038,Households - Average Retirement Income (in hundreds of $US)
+MIACS_01,miacs_19_042,Households - % With Interest Rental Dividend Income
+MIACS_01,miacs_19_043,Households - % With Social Security Income
+MIACS_01_A,customer_user_id,Customer User ID
+MIACS_01_A,miacs_19_048,Families - Average Income (in hundreds of $US)
+MIACS_01_A,miacs_24_011,"Employed Population 16+ - % Professional
+MIACS_01_A,miacs_25_001,Housing Units - % Occupied
+MIACS_01_A,miacs_25_005,Occupied Housing Units - % Owner Occupied
+MIACS_01_A,miacs_25_006,Occupied Housing Units - % Renter Occupied
+MIACS_01_A,miacs_25_039,Housing Units - Median Age (Years)
+MIACS_01_A,miacs_25_062,Occupied Housing Units - % Utility Gas
+MIACS_01_A,miacs_25_064,Occupied Housing Units - % Electric
+MIACS_01_A,miacs_25_097,Owner-occupied Housing Units - Median Value (in hundreds of $US)
+MIACS_01_A,miacs_25_120,Owner-occupied Housing Units - Median Monthly Owner Costs with Mortgage (in hundreds of $US)
+MIACS_01_A,miacs_25_122,Owner-occupied Housing Units - Median Real Estate Taxes (Tract level) (in hundreds of $US)
+MIACS_02,customer_user_id,Customer User ID
+MIACS_02,miacs_00_001,Number of People (Total Population)
+MIACS_02,miacs_00_002,Number of People in Households (Household Population)
+MIACS_02,miacs_00_003,Number of People in Group Quarters (Group-Quarters Population)
+MIACS_02,miacs_00_004,Number of Households
+MIACS_02,miacs_00_005,Number of Family Households
+MIACS_02,miacs_00_006,Number of Non-Family Households
+MIACS_02,miacs_00_007,Number of Housing Units
+MIACS_02,miacs_00_008,Number of Vacant Housing Units
+MIACS_02,miacs_01_002,Total Population - % Female
+MIACS_02,miacs_01_003,Total Population - Average Age
+MIACS_02,miacs_01_005,Male Population - Median Age
+MIACS_02,miacs_01_006,Female Population - Median Age
+MIACS_02,miacs_01_008,Total Population - % 18-64
+MIACS_02,miacs_01_009,Total Population - % 65+
+MIACS_02,miacs_01_010,White Alone Population - % <18 (Tract level)
+MIACS_02,miacs_01_011,White Alone Population - % 18-64 (Tract level)
+MIACS_02,miacs_01_012,White Alone Population - % 65+ (Tract level)
+MIACS_02,miacs_01_013,Black Alone Population - % <18 (Tract level)
+MIACS_02,miacs_01_014,Black Alone Population - % 18-64 (Tract level)
+MIACS_02,miacs_01_015,Black Alone Population - % 65+ (Tract level)
+MIACS_02,miacs_01_016,Hispanic Population Under - % <18 (Tract level)
+MIACS_02,miacs_01_017,Hispanic Population - % 18-64 (Tract level)
+MIACS_02,miacs_01_018,Hispanic Population - % 65+ (Tract level)
+MIACS_02,miacs_01_019,Household Population <18 - % Under 3 (Tract Level)
+MIACS_02,miacs_01_020,Household Population <18 - % 3-4 (Tract Level)
+MIACS_02,miacs_01_021,Household Population <18 - % 5 (Tract Level)
+MIACS_02,miacs_01_022,Household Population <18 - % 3-5 (Tract Level)
+MIACS_02,miacs_01_023,Household Population <18 - % 6-8 (Tract Level)
+MIACS_02,miacs_01_024,Household Population <18 - % 9-11 (Tract Level)
+MIACS_02,miacs_01_025,Household Population <18 - % 6-11 (Tract Level)
+MIACS_02,miacs_01_026,Household Population <18 - % 12-14 (Tract Level)
+MIACS_02,miacs_01_027,Household Population <18 - % 15-17 (Tract Level)
+MIACS_02,miacs_01_028,Population 18+ - Average Age
+MIACS_02,miacs_01_030,Population 25+ - Average Age
+MIACS_02,miacs_01_031,Population 25+ - Median Age
+MIACS_02,miacs_02_008,Asian Alone Population - % Asian Indian (Tract Level)
+MIACS_02,miacs_02_009,Asian Alone Population - % Japanese (Tract Level)
+MIACS_02,miacs_02_010,Asian Alone Population - % Chinese (Tract Level)
+MIACS_02,miacs_02_011,Asian Alone Population - % Filipino (Tract Level)
+MIACS_02,miacs_02_012,Asian Alone Population - % Korean (Tract Level)
+MIACS_02,miacs_02_013,Asian Alone Population - % Vietnamese (Tract Level)
+MIACS_02,miacs_02_014,Asian Alone Population - % Other Asian (Tract Level)
+MIACS_02,miacs_02_015,NHOPI Alone Population - % Native Hawaiian (Tract Level)
+MIACS_02,miacs_02_016,NHOPI Alone Population - % Guamanian or Chamorro (Tract Level)
+MIACS_02,miacs_02_017,NHOPI Alone Population - % Samoan (Tract Level)
+MIACS_02,miacs_02_018,NHOPI Alone Population - % Other Pacific Islander (Tract Level)
+MIACS_02,miacs_03_003,Total Population - % Mexican (Tract Level)
+MIACS_02,miacs_03_004,Total Population - % Puerto Rican (Tract Level)
+MIACS_02,miacs_03_005,Total Population - % Cuban (Tract Level)
+MIACS_02,miacs_03_006,Total Population - % Other Hispanic or Latino Origin (Tract Level)
+MIACS_02,miacs_03_009,Total Population - % Non-Hispanic AIAN Alone
+MIACS_02,miacs_03_010,Total Population - % Non-Hispanic Asian Alone
+MIACS_02,miacs_03_011,Total Population - % Non-Hispanic NHOPI Alone
+MIACS_02,miacs_03_012,Total Population - % Non-Hispanic Some Other Race Alone
+MIACS_02,miacs_03_013,Total Population - % Non-Hispanic Two or More Races
+MIACS_02,miacs_04_030,Total Population - % Other (Tract Level)
+MIACS_02,miacs_04_031,Total Population - % Unclassified or Not Reported (Tract Level)
+MIACS_02,miacs_05_001,Total Population - % Native Citizens (Tract Level)
+MIACS_02,miacs_05_002,Total Population - % Naturalized Citizens (Tract Level)
+MIACS_02,miacs_05_003,Total Population - % Non-Citizens (Tract Level)
+MIACS_02,miacs_06_001,Total Population - % In State Of Residence (Tract Level)
+MIACS_02,miacs_06_002,Total Population - % In Other State in the US (Tract Level)
+MIACS_02,miacs_07_001,Population 1+ - % Same Living Quarters (Tract Level)
+MIACS_02,miacs_07_002,Population 1+ - % Different Living Quarters (Tract Level)
+MIACS_02,miacs_07_003,Population 1+ - % Different State/Country (Tract Level)
+MIACS_02,miacs_08_001,Workers 16+ - % In County of Residence
+MIACS_02,miacs_08_002,Workers 16+ - % Outside County of Residence
+MIACS_02,miacs_08_003,Workers 16+ - % Outside State of Residence
+MIACS_02,miacs_08_004,"Workers 16+ - % Car
+MIACS_02,miacs_08_005,"Workers 16+ - % Car
+MIACS_02,miacs_08_006,Workers 16+ - % Public Transportation (Excluding Taxicab)
+MIACS_02,miacs_08_007,Workers 16+ - % Public Transportation: Bus or trolley bus
+MIACS_02,miacs_08_008,Workers 16+ - % Public Transportation: Streetcar/Trolley Car
+MIACS_02,miacs_08_009,Workers 16+ - % Public Transportation: Subway/Elevated
+MIACS_02,miacs_08_010,Workers 16+ - % Public Transportation: Using Railways
+MIACS_02,miacs_08_011,Workers 16+ - % Public Transportation: Ferryboat
+MIACS_02,miacs_08_012,Workers 16+ - % Taxicab
+MIACS_02,miacs_08_013,Workers 16+ - % Motorcycle
+MIACS_02,miacs_08_014,Workers 16+ - % Bicycle
+MIACS_02,miacs_08_015,Workers 16+ - % Walked
+MIACS_02,miacs_08_016,Workers 16+ - % Other means
+MIACS_02,miacs_08_018,Workers 16+ Not Working at Home - Average (Minutes)
+MIACS_02,miacs_08_019,Workers 16+ Not Working at Home - Median (Minutes)
+MIACS_02,miacs_08_020,Workers 16+ Not Working at Home - % 1-29 Minutes
+MIACS_02,miacs_08_021,Workers 16+ Not Working at Home - % 30-59 Minutes
+MIACS_02,miacs_08_022,Workers 16+ Not Working at Home - % 60-89 Minutes
+MIACS_02,miacs_08_023,Workers 16+ Not Working at Home - % 90+ Minutes
+MIACS_02,miacs_08_024,Workers 16+ Not Working at Home - % 15 to 59 Minutes
+MIACS_02,miacs_08_025,Workers 16+ Not Working at Home - % 60+ Minutes
+MIACS_02,miacs_08_026,Households - % No Vehicle
+MIACS_02,miacs_08_027,Households - % 1 Vehicle
+MIACS_02,miacs_08_028,Households - % 1+ Vehicles
+MIACS_02,miacs_08_029,Households - % 2 Vehicles
+MIACS_02,miacs_08_030,Households - % 2+ Vehicles
+MIACS_02,miacs_08_032,Households - % Householder 15-34 & 1+ Vehicle
+MIACS_02,miacs_08_033,Households - % Householder 35-64 & 1+ Vehicle
+MIACS_02,miacs_08_034,Households - % Householder 65+ & 1+ Vehicle
+MIACS_02_A,customer_user_id,Customer User ID
+MIACS_02_A,miacs_08_035,Owner-Occupied Households - Average Vehicles Available
+MIACS_02_A,miacs_08_036,Owner-Occupied Households - Median Vehicles Available
+MIACS_02_A,miacs_08_037,Renter-Occupied Households - Average Vehicles Available
+MIACS_02_A,miacs_08_038,Renter-Occupied Households - Median Vehicles Available
+MIACS_02_A,miacs_09_001,Total Population - % Households
+MIACS_02_A,miacs_09_002,Total Population - % Group Quarters
+MIACS_02_A,miacs_09_003,Total Population - % Family Households
+MIACS_02_A,miacs_09_004,Total Population - % Not Family Households
+MIACS_02_A,miacs_10_001,Population 30+ - % Grandparents Responsible for Own Grandchildren (Tract level)
+MIACS_02_A,miacs_10_002,Households - % Grandparents Responsible for Own Grandchildren (Tract level)
+MIACS_02_A,miacs_11_001,Households - % Male Householder (Tract level)
+MIACS_02_A,miacs_11_002,Households - % Female Householder (Tract level)
+MIACS_02_A,miacs_11_004,Households - % No Children
+MIACS_02_A,miacs_11_005,Households - % With Own Children
+MIACS_02_A,miacs_11_006,Households - % Married Couples with Own Children
+MIACS_02_A,miacs_11_008,Households - % Single Male Householder with Own Children
+MIACS_02_A,miacs_11_009,Households - % Single Female Householder with Own Children
+MIACS_02_A,miacs_11_010,Households - % With Related Children
+MIACS_02_A,miacs_11_011,Households - % Married Couples with Related Children
+MIACS_02_A,miacs_11_012,Households - % Married Couples with No Related Children
+MIACS_02_A,miacs_11_013,Households - % Single Householder with Related Children
+MIACS_02_A,miacs_11_014,Households - % Single Householder with No Related Children
+MIACS_02_A,miacs_11_015,Households - % Single-Male Householder with Related Children
+MIACS_02_A,miacs_11_016,Households - % Single-Female Householder with Related Children
+MIACS_02_A,miacs_11_017,Households - % Person Age 65+
+MIACS_02_A,miacs_11_018,Households - % Person Age 65+ Living Alone
+MIACS_02_A,miacs_11_019,Households - % Householder 15-24
+MIACS_02_A,miacs_11_020,Households - % Householder 25-34
+MIACS_02_A,miacs_11_021,Households - % Householder 35-44
+MIACS_02_A,miacs_11_022,Households - % Householder 45-54
+MIACS_02_A,miacs_11_023,Households - % Householder 55-64
+MIACS_02_A,miacs_11_024,Households - % Householder 65-74
+MIACS_02_A,miacs_11_025,Households - % Householder 75-84
+MIACS_02_A,miacs_11_026,Households - % Householder 85+
+MIACS_02_A,miacs_11_027,Households - % Householder 65+
+MIACS_02_A,miacs_11_037,Households - % Families
+MIACS_02_A,miacs_11_038,Households - % Not Families
+MIACS_02_A,miacs_11_039,2+ Person Households - % Not Families
+MIACS_02_A,miacs_11_040,Households - % Married Householder
+MIACS_02_A,miacs_11_041,Households - % Single Householder
+MIACS_02_A,miacs_11_042,Households - % Single Male Householder
+MIACS_02_A,miacs_11_043,Households - % Single Female Householder
+MIACS_02_A,miacs_11_044,Households - Average Size
+MIACS_02_A,miacs_11_045,Households - Median Persons per Household
+MIACS_02_A,miacs_11_046,Families - Average Size
+MIACS_02_A,miacs_11_050,Households - % 3+ Person
+MIACS_02_A,miacs_11_053,Households - % 5-Person
+MIACS_02_A,miacs_11_054,Households - % 5+ Person
+MIACS_02_A,miacs_11_055,Households - % 6+ Person
+MIACS_02_A,miacs_12_001,Population 15+ - % Never Married
+MIACS_02_A,miacs_12_002,Population 15+ - % Married
+MIACS_02_A,miacs_12_003,Population 15+ - % Separated or Divorced
+MIACS_02_A,miacs_12_004,Population 15+ - % Widowed
+MIACS_02_A,miacs_13_001,Women 15-50 - % Gave Birth in Past 12 Months (Tract level)
+MIACS_02_A,miacs_14_001,Population 3+ - % In Public Schools
+MIACS_02_A,miacs_14_002,Population 3+ - % In Private Schools
+MIACS_02_A,miacs_14_003,Population 3+ - % Not Enrolled
+MIACS_02_A,miacs_14_004,Children in Elementary or High School - % In Public School
+MIACS_02_A,miacs_14_005,Children in Elementary or High School - % In Private School
+MIACS_02_A,miacs_14_006,Population 3+ - % In Preschool
+MIACS_02_A,miacs_14_007,Population 3+ - % In Elementary Or High School
+MIACS_02_A,miacs_14_008,Population 3+ - % In College
+MIACS_02_A,miacs_16_006,"Population 5+ - % Speaking English ""Only
+MIACS_02_A,miacs_16_007,"Population 5+ - % Speaking English ""Not Well"" or ""Not At All"""
+MIACS_02_A,miacs_16_008,Households - % Linguistically Isolated
+MIACS_02_A,miacs_17_001,Total Population - % Below Poverty Level (Tract level)
+MIACS_02_A,miacs_17_003,Population <18 - % Below Poverty Level (Tract level)
+MIACS_02_A,miacs_18_001,Civilian Non-Institutional Population - % With Disability (Tract level)
+MIACS_02_A,miacs_18_002,Civilian Non-Institutional Population <18 - % With Disability (Tract level)
+MIACS_02_A,miacs_18_003,Civilian Non-Institutional Population 18-64 - % With Disability (Tract level)
+MIACS_02_A,miacs_18_004,Civilian Non-Institutional Population 65+ - % With Disability (Tract level)
+MIACS_02_A,miacs_19_001,Total Population - Per Capita Income (in hundreds of $US)
+MIACS_02_A,miacs_19_002,Households - Average Income (in hundreds of $US)
+MIACS_02_A,miacs_19_004,"Households - % < $10
+MIACS_02_A,miacs_19_005,"Households - % $10
+MIACS_02_A,miacs_19_006,"Households - % < $15
+MIACS_02_A,miacs_19_007,"Households - % $15
+MIACS_02_A,miacs_19_008,"Households - % $20
+MIACS_02_A,miacs_19_009,"Households - % $15
+MIACS_02_A,miacs_19_010,"Households - % $25
+MIACS_02_A,miacs_19_011,"Households - % $30
+MIACS_02_A,miacs_19_012,"Households - % $25
+MIACS_02_A,miacs_19_013,"Households - % $35
+MIACS_02_A,miacs_19_014,"Households - % $40
+MIACS_02_A,miacs_19_015,"Households - % $45
+MIACS_02_A,miacs_19_016,"Households - % $35
+MIACS_02_A,miacs_19_017,"Households - % $50
+MIACS_02_A,miacs_19_018,"Households - % $60
+MIACS_02_A,miacs_19_019,"Households - % $50
+MIACS_02_A,miacs_19_020,"Households - % $75
+MIACS_02_A,miacs_19_021,"Households - % $100
+MIACS_02_A,miacs_19_022,"Households - % $125
+MIACS_02_A,miacs_19_023,"Households - % $150
+MIACS_02_A,miacs_19_024,"Households - % $150
+MIACS_02_A,miacs_19_025,"Households - % $200
+MIACS_02_A,miacs_19_026,Householder <25 - Median Income (in hundreds of $US)
+MIACS_02_A,miacs_19_027,Householder 25-44 - Median Income (in hundreds of $US)
+MIACS_02_A,miacs_19_028,Householder 45-64 - Median Income (in hundreds of $US)
+MIACS_02_A,miacs_19_029,Householder 65+ - Median Income (in hundreds of $US)
+MIACS_02_B,customer_user_id,Customer User ID
+MIACS_02_B,miacs_arealatitude,Area Latitude
+MIACS_02_B,miacs_arealongitude,Area Longitude
+MIACS_02_B,miacs_matchcode,Market Indices ACS Match Code
+MIACS_03,customer_user_id,Customer User ID
+MIACS_03,miacs_19_030,Population of Hispanic Origin - Per Capita Income (in hundreds of $US)
+MIACS_03,miacs_19_031,Households with Hispanic Householder - Median Income (in hundreds of $US) (Tract Level)
+MIACS_03,miacs_19_032,Households - Average Wage or Salary Income (in hundreds of $US)
+MIACS_03,miacs_19_036,Households - Average Supplemental Security Income (in hundreds of $US)
+MIACS_03,miacs_19_037,Households - Average Public Assistance Income (in hundreds of $US)
+MIACS_03,miacs_19_039,Households - Average Other Income (in hundreds of $US)
+MIACS_03,miacs_19_040,Households - % With Wage Income
+MIACS_03,miacs_19_041,Households - % With Self-Employment Income
+MIACS_03,miacs_19_044,Households - % With Supplemental Security Income
+MIACS_03,miacs_19_045,Households - % With Public Assistance Income
+MIACS_03,miacs_19_046,Households - % With Retirement Income
+MIACS_03,miacs_19_047,Households - % With Other Income
+MIACS_03,miacs_19_049,Families - Median Income (in hundreds of $US)
+MIACS_03,miacs_19_050,"Families - % < $10
+MIACS_03,miacs_19_051,"Families - % $10
+MIACS_03,miacs_19_052,"Families - % < $15
+MIACS_03,miacs_19_053,"Families - % $15
+MIACS_03,miacs_19_054,"Families - % $20
+MIACS_03,miacs_19_055,"Families - % $15
+MIACS_03,miacs_19_056,"Families - % $25
+MIACS_03,miacs_19_057,"Families - % $30
+MIACS_03,miacs_19_058,"Families - % $25
+MIACS_03,miacs_19_059,"Families - % $35
+MIACS_03,miacs_19_060,"Families - % $40
+MIACS_03,miacs_19_061,"Families - % $45
+MIACS_03,miacs_19_062,"Families - % $35
+MIACS_03,miacs_19_063,"Families - % $50
+MIACS_03,miacs_19_064,"Families - % $60
+MIACS_03,miacs_19_065,"Families - % $50
+MIACS_03,miacs_19_066,"Families - % $75
+MIACS_03,miacs_19_067,"Families - % $100
+MIACS_03,miacs_19_068,"Families - % $125
+MIACS_03,miacs_19_069,"Families - % $150
+MIACS_03,miacs_19_070,"Families - % $150
+MIACS_03,miacs_19_071,"Families - % $200
+MIACS_03,miacs_21_001,Civilians 18+ - % Veterans
+MIACS_03,miacs_21_002,Male Civilians 18+ - % Veterans
+MIACS_03,miacs_21_003,Female Civilians 18+ - % Veterans
+MIACS_03,miacs_21_004,Civilian Veterans 18+ - % After Sept 2001 Only
+MIACS_03,miacs_21_005,Civilian Veterans 18+ - % During First Gulf War Era
+MIACS_03,miacs_21_006,Civilian Veterans 18+ - % During Vietnam War Era
+MIACS_03,miacs_21_007,Civilian Veterans 18+ - % During Korean War Era
+MIACS_03,miacs_21_008,Civilian Veterans 18+ - % During WWII Era
+MIACS_03,miacs_22_001,Households - % Food Stamps Last 12 Months (Tract level)
+MIACS_03,miacs_23_001,Population 16+ - % In Labor Force (Tract Level)
+MIACS_03,miacs_23_002,Male Population 16+ - % In Labor Force (Tract Level)
+MIACS_03,miacs_23_003,Female Population 16+ - % In Labor Force (Tract Level)
+MIACS_03,miacs_23_004,Population 16+ - % Employed (Tract Level)
+MIACS_03,miacs_23_005,Male Population 16+ - % Employed (Tract Level)
+MIACS_03,miacs_23_006,Female Population 16+ - % Employed (Tract Level)
+MIACS_03,miacs_23_007,Female Population 20-64 with Own Children - % Employed
+MIACS_03,miacs_23_008,Population 16+ - % Active Military Duty (Tract Level)
+MIACS_03,miacs_23_009,Male Population 16+ - % Active Military Duty (Tract Level)
+MIACS_03,miacs_23_010,Female Population 16+ - % Active Military Duty (Tract Level)
+MIACS_03,miacs_23_011,Own Children - % Both Parents in Labor Force
+MIACS_03,miacs_23_012,Own Children - % Single Father in Labor Force
+MIACS_03,miacs_23_013,Own Children - % Single Mother in Labor Force
+MIACS_03,miacs_23_014,Own Children - % No Parent in Labor Force
+MIACS_03,miacs_23_015,Families with Own Children - % Married-Couples with Both in Labor Force
+MIACS_03,miacs_23_016,Families with Own Children - % Single Father in Labor Force
+MIACS_03,miacs_23_017,Families with Own Children - % Single Mother in Labor Force
+MIACS_03,miacs_23_018,Families with Own Children - % No Adult in Labor Force
+MIACS_03,miacs_24_001,Employed Population 16+ - % Agriculture
+MIACS_03,miacs_24_002,Employed Population 16+ - % Mining
+MIACS_03,miacs_24_003,Employed Population 16+ - % Construction
+MIACS_03,miacs_24_004,Employed Population 16+ - % Manufacturing
+MIACS_03,miacs_24_005,Employed Population 16+ - % Wholesale Trade
+MIACS_03,miacs_24_006,Employed Population 16+ - % Retail
+MIACS_03,miacs_24_007,Employed Population 16+ - % Transportation/Warehousing
+MIACS_03,miacs_24_008,Employed Population 16+ - % Utilities
+MIACS_03,miacs_24_009,Employed Population 16+ - % Information/Communications
+MIACS_03,miacs_24_010,"Employed Population 16+ - % Finance
+MIACS_03,miacs_24_012,Employed Population 16+ - % Educational Services
+MIACS_03,miacs_24_013,Employed Population 16+ - % Health & Social Assistance
+MIACS_03,miacs_24_014,"Employed Population 16+ - % Arts
+MIACS_03,miacs_24_015,Employed Population 16+ - % Accommodation & Food Services
+MIACS_03,miacs_24_016,Employed Population 16+ - % Other Services
+MIACS_03,miacs_24_017,Employed Population 16+ - % Public Administration
+MIACS_03_A,customer_user_id,Customer User ID
+MIACS_03_A,miacs_24_018,Employed Civilian Population 16+ - % Management/Business/Financial Operations
+MIACS_03_A,miacs_24_019,Employed Civilian Population 16+ - % Professional & Related Occupations
+MIACS_03_A,miacs_24_020,Employed Civilian Population 16+ - % Healthcare Support
+MIACS_03_A,miacs_24_021,Employed Civilian Population 16+ - % Protective Service
+MIACS_03_A,miacs_24_022,Employed Civilian Population 16+ - % Food Preparation & Serving
+MIACS_03_A,miacs_24_023,Employed Civilian Population 16+ - % Building/Grounds Cleaning & Maintenance
+MIACS_03_A,miacs_24_024,Employed Civilian Population 16+ - % Personal Care
+MIACS_03_A,miacs_24_025,Employed Civilian Population 16+ - % Sales & Related Occupations
+MIACS_03_A,miacs_24_026,Employed Civilian Population 16+ - % Office/Administrative Support
+MIACS_03_A,miacs_24_027,"Employed Civilian Population 16+ - % Farming
+MIACS_03_A,miacs_24_028,Employed Civilian Population 16+ - % Construction & Extraction
+MIACS_03_A,miacs_24_029,"Employed Civilian Population 16+ - % Installation
+MIACS_03_A,miacs_24_030,Employed Civilian Population 16+ - % Production
+MIACS_03_A,miacs_24_031,Employed Civilian Population 16+ - % Transportation & Materials Moving
+MIACS_03_A,miacs_24_032,Employed Civilian Population 16+ - % Private Company Employee
+MIACS_03_A,miacs_24_033,Employed Civilian Population 16+ - % Self Employed
+MIACS_03_A,miacs_24_034,Employed Civilian Population 16+ - % Private Non-Profit Wage Or Salaried Worker
+MIACS_03_A,miacs_24_035,Employed Civilian Population 16+ - % Local Government Employee
+MIACS_03_A,miacs_24_036,Employed Civilian Population 16+ - % State Government Employee
+MIACS_03_A,miacs_24_037,Employed Civilian Population 16+ - % Federal Government Employee
+MIACS_03_A,miacs_24_038,Employed Civilian Population 16+ - % Unpaid Family Workers
+MIACS_03_A,miacs_25_002,Occupied Housing Units - Median Length of Residence
+MIACS_03_A,miacs_25_003,Housing Units - % Vacant
+MIACS_03_A,miacs_25_004,Vacant Housing Units - % Seasonal/Recreational
+MIACS_03_A,miacs_25_007,Housing Units - Average Number Of Rooms
+MIACS_03_A,miacs_25_008,Housing Units - Median Number of Rooms
+MIACS_03_A,miacs_25_009,Housing Units - Average Persons Per Room
+MIACS_03_A,miacs_25_010,Housing Units - Median Number of Persons
+MIACS_03_A,miacs_25_011,Housing Units - % 1 Room
+MIACS_03_A,miacs_25_012,Housing Units - % 2 Rooms
+MIACS_03_A,miacs_25_013,Housing Units - % 1-2 Rooms
+MIACS_03_A,miacs_25_014,Housing Units - % 3 Rooms
+MIACS_03_A,miacs_25_015,Housing Units - % 4 Rooms
+MIACS_03_A,miacs_25_016,Housing Units - % 5 Rooms
+MIACS_03_A,miacs_25_017,Housing Units - % 6 Rooms
+MIACS_03_A,miacs_25_018,Housing Units - % 6+ Rooms
+MIACS_03_A,miacs_25_019,Housing Units - % 7 Rooms
+MIACS_03_A,miacs_25_020,Housing Units - % 8 Rooms
+MIACS_03_A,miacs_25_021,Housing Units - % 9+ Rooms
+MIACS_03_A,miacs_25_022,Housing Units - % Detached Single-unit
+MIACS_03_A,miacs_25_023,Housing Units - % Attached Single-unit
+MIACS_03_A,miacs_25_024,Housing Units - % Single-unit
+MIACS_03_A,miacs_25_025,Housing Units - % Duplexes
+MIACS_03_A,miacs_25_026,Housing Units - % 2-4 Units
+MIACS_03_A,miacs_25_027,Housing Units - % 2+ Units
+MIACS_03_A,miacs_25_028,Housing Units - % 3+ Units
+MIACS_03_A,miacs_25_029,Housing Units - % 5+ Units
+MIACS_03_A,miacs_25_030,Housing Units - % 2-9 Units
+MIACS_03_A,miacs_25_031,Housing Units - % 10+ Units
+MIACS_03_A,miacs_25_032,Housing Units - % Mobile Homes
+MIACS_03_A,miacs_25_033,"Housing Units - % Boats
+MIACS_03_A,miacs_25_034,Renter-occupied Housing Units - % Single-unit
+MIACS_03_A,miacs_25_035,Renter-occupied Housing Units - % 2-4 Units
+MIACS_03_A,miacs_25_036,Renter-occupied Housing Units - % 5+ Units
+MIACS_03_A,miacs_25_037,"Renter-occupied Housing Units - % Mobile Homes
+MIACS_03_A,miacs_25_038,Housing Units - Median Year Built
+MIACS_03_A,miacs_25_040,Occupied Housing Units - Median Year Built
+MIACS_03_A,miacs_25_041,Occupied Housing Units - Median Age (Years)
+MIACS_03_A,miacs_25_042,Owner-occupied Housing Units - Median Year Built
+MIACS_03_A,miacs_25_043,Renter-occupied Housing Units - Median Year Built
+MIACS_03_A,miacs_25_044,Owner-occupied Housing Units - % 2015 or later
+MIACS_03_A,miacs_25_045,Owner-occupied Housing Units - % 2010-2014
+MIACS_03_A,miacs_25_046,Owner-occupied Housing Units - % 2010 or later
+MIACS_03_A,miacs_25_047,Owner-occupied Housing Units - % 2000-2009
+MIACS_03_A,miacs_25_048,Owner-occupied Housing Units - % 2005 or later
+MIACS_03_A,miacs_25_049,Owner-occupied Housing Units - % 2000-2004
+MIACS_03_A,miacs_25_050,Owner-occupied Housing Units - % Since 2000
+MIACS_03_A,miacs_25_051,Owner-occupied Housing Units - % 1990-1999
+MIACS_03_A,miacs_25_052,Owner-occupied Housing Units - % Since 1990
+MIACS_03_A,miacs_25_053,Owner-occupied Housing Units - % 1980-1989
+MIACS_03_A,miacs_25_054,Owner-occupied Housing Units - % Since 1980
+MIACS_03_A,miacs_25_055,Owner-occupied Housing Units - % 1970-1979
+MIACS_03_A,miacs_25_056,Owner-occupied Housing Units - % Since 1970
+MIACS_03_A,miacs_25_057,Owner-occupied Housing Units - % 1960-1969
+MIACS_03_A,miacs_25_058,Owner-occupied Housing Units - % 1950-1959
+MIACS_03_A,miacs_25_059,Owner-occupied Housing Units - % 1940-1949
+MIACS_03_A,miacs_25_060,Owner-occupied Housing Units - % 1939 or Earlier
+MIACS_03_A,miacs_25_061,Owner-occupied Housing Units - % Prior to 1970
+MIACS_03_A,miacs_25_063,Occupied Housing Units - % Bottled Tank Or LP Gas
+MIACS_03_A,miacs_25_065,Occupied Housing Units - % Fuel Oil
+MIACS_03_A,miacs_25_066,Occupied Housing Units - % Coal or Coke
+MIACS_03_A,miacs_25_067,Occupied Housing Units - % Wood
+MIACS_03_A,miacs_25_068,Occupied Housing Units - % Solar Energy
+MIACS_03_A,miacs_25_069,Occupied Housing Units - % Other Fuel
+MIACS_03_A,miacs_25_070,Occupied Housing Units - % No Fuel Used
+MIACS_03_A,miacs_25_071,Housing Units - % None
+MIACS_03_A,miacs_25_072,Housing Units - % 1
+MIACS_03_A,miacs_25_073,Housing Units - % 2
+MIACS_03_A,miacs_25_074,Housing Units - % 3
+MIACS_03_A,miacs_25_075,Housing Units - % 4
+MIACS_03_A,miacs_25_076,Housing Units - % 5+
+MIACS_03_A,miacs_25_077,Occupied Housing Units - % Telephone
+MIACS_03_A,miacs_25_078,Housing Units - % Complete Plumbing Facilities
+MIACS_03_A,miacs_25_079,Housing Units - % Complete Kitchen Facilities
+MIACS_03_B,customer_user_id,Customer User ID
+MIACS_03_B,miacs_25_080,Renter-occupied Housing Units - Average Gross Rent (in $US)
+MIACS_03_B,miacs_25_081,Renter-occupied Housing Units - Median Gross Rent (in $US)
+MIACS_03_B,miacs_25_082,Renter-occupied Housing Units - % Less Than $100
+MIACS_03_B,miacs_25_083,Renter-occupied Housing Units - % $100 - $199
+MIACS_03_B,miacs_25_084,Renter-occupied Housing Units - % $200 - $299
+MIACS_03_B,miacs_25_085,Renter-occupied Housing Units - % $300 - $399
+MIACS_03_B,miacs_25_086,Renter-occupied Housing Units - % $400 - $499
+MIACS_03_B,miacs_25_087,Renter-occupied Housing Units - % $500 - $749
+MIACS_03_B,miacs_25_088,Renter-occupied Housing Units - % $750 - $999
+MIACS_03_B,miacs_25_089,Renter-occupied Housing Units - % $1000 - $1249
+MIACS_03_B,miacs_25_090,Renter-occupied Housing Units - % $1250 - $1499
+MIACS_03_B,miacs_25_091,Renter-occupied Housing Units - % $1500 - $1999
+MIACS_03_B,miacs_25_092,Renter-occupied Housing Units - % $200+
+MIACS_03_B,miacs_25_093,Renter-occupied Housing Units - % $300+
+MIACS_03_B,miacs_25_094,Renter-occupied Housing Units - % $500+
+MIACS_03_B,miacs_25_095,Renter-occupied Housing Units - % $2000+
+MIACS_03_B,miacs_25_096,Owner-occupied Housing Units - Average Value (in hundreds of $US)
+MIACS_03_B,miacs_25_098,"Owner-occupied Housing Units - % <$25
+MIACS_03_B,miacs_25_099,"Owner-occupied Housing Units - % $25
+MIACS_03_B,miacs_25_100,"Owner-occupied Housing Units - % $50
+MIACS_03_B,miacs_25_101,"Owner-occupied Housing Units - % $100
+MIACS_03_B,miacs_25_102,"Owner-occupied Housing Units - % $125
+MIACS_03_B,miacs_25_103,"Owner-occupied Housing Units - % $150
+MIACS_03_B,miacs_25_104,"Owner-occupied Housing Units - % $175
+MIACS_03_B,miacs_25_105,"Owner-occupied Housing Units - % $200
+MIACS_03_B,miacs_25_106,"Owner-occupied Housing Units - % $250
+MIACS_03_B,miacs_25_107,"Owner-occupied Housing Units - % $300
+MIACS_03_B,miacs_25_108,"Owner-occupied Housing Units - % $400
+MIACS_04,customer_user_id,Customer User ID
+MIACS_04,miacs_25_109,"Owner-occupied Housing Units - % $500
+MIACS_04,miacs_25_110,"Owner-occupied Housing Units - % $750
+MIACS_04,miacs_25_111,"Owner-occupied Housing Units - % $50
+MIACS_04,miacs_25_112,"Owner-occupied Housing Units - % $80
+MIACS_04,miacs_25_113,"Owner-occupied Housing Units - % $100
+MIACS_04,miacs_25_114,"Owner-occupied Housing Units - % $150
+MIACS_04,miacs_25_115,"Owner-occupied Housing Units - % $200
+MIACS_04,miacs_25_116,"Owner-occupied Housing Units - % $500
+MIACS_04,miacs_25_117,"Owner-occupied Housing Units - % $1
+MIACS_04,miacs_25_118,Owner-occupied Housing Units - % Mortgage
+MIACS_04,miacs_25_119,Owner-occupied Housing Units - % Second Mortgage or Home Equity Loan
+MIACS_04,miacs_25_121,Owner-occupied Housing Units - Median Monthly Owner Costs without Mortgage (in hundreds of $US)
+MIACS_04,miacs_27_001,Civilian Non-Institutional Population - % With Insurance (Tract level)
+MIACS_04,miacs_27_002,Civilian Non-Institutional Population - % With Private Insurance (Tract level)
+MIACS_04,miacs_27_003,Civilian Non-Institutional Population - % With Employer-Provided Insurance (Private) (Tract level)
+MIACS_04,miacs_27_004,Civilian Non-Institutional Population - % With Direct-Purchase Insurance (Private) (Tract level)
+MIACS_04,miacs_27_005,Civilian Non-Institutional Population - % With TRICARE Insurance (Private) (Tract level)
+MIACS_04,miacs_27_006,Civilian Non-Institutional Population - % With Public Insurance
+MIACS_04,miacs_27_007,Civilian Non-Institutional Population - % With Medicare (Public) (Tract level)
+MIACS_04,miacs_27_008,Civilian Non-Institutional Population - % With Medicaid (Public) (Tract level)
+MIACS_04,miacs_27_009,Civilian Non-Institutional Population - % With VA Insurance (Public) (Tract level)
+MIACS_04,miacs_27_010,Civilian Non-Institutional Population - % With No Insurance (Tract level)
+NEW_BORROWERS,customer_user_id,Customer User ID
+NEW_BORROWERS,ibe3103,Hispanic Language Preference
+NEW_BORROWERS,ibe8555,Home Owner Type Detail (Real Property data only)
+NEW_BORROWERS,ibe8556,Trust Owned (Real Property data only)
+NEW_BORROWERS,ibe8570,Home Loan Type 1 (Real Property data only)
+NEW_BORROWERS,ibe8572,Home Loan Interest Rate Type 1 (Real Property data only)
+NEW_BORROWERS,ibe8575,Home Loan Transaction Type 1 (Real Property data only)
+NEW_BORROWERS,ibe8579,Home Purchase Date (YYYY/MM) (Real Property data only)
+NEW_BORROWERS,ibe8588,Home Square Footage - Actual (Real Property data only)
+NEW_BORROWERS,ibe8591,Home Pool Present
+NEW_BORROWERS,ibe8592,Home Year Built - Actual (Real Property data only)
+NEW_BORROWERS,ibe8606,Home Owner / Renter
+NEW_BORROWERS,ibe8642,Home Market Value - Estimated
+NEW_BORROWERS,ibe8701,Home Property Type (Real Property data only)
+NEW_BORROWERS,ibe8705,Home Purchase Amount - Actual (Real Property data only)
+NEW_BORROWERS,ibe8708,Home Loan Amount 1 - Original - Actual (Real Property data only)
+NEW_BORROWERS,ibe8851,Home Market Value - Estimated - Quality Indicator (use with 8642)
+NEW_BORROWERS,ibe9750,Home Market Value - Estimated - Actual (Real Property data only)
+N_A,customer_user_id,Customer User ID
+N_A,ibe1807,Family Ties - Grandparent Indicator - Person
+N_A,ibe1811,Family Ties - Parent 1 Net Worth - Person
+N_A,ibe1812,Family Ties - Parent 1 State Code - Person
+N_A,ibe2405_02,Geo State Lower House District Name
+N_A,ibe7611_01,
+N_A,ibe7611_02,
+N_A,ibe7611_03,
+N_A,ibe7618_01,
+N_A,ibe7618_02,
+N_A,ibe7618_03,
+N_A,ibe7623_01,
+N_A,ibe7623_02,
+N_A,ibe7623_03,
+N_A,ibe7625_01,
+N_A,ibe7625_02,
+N_A,ibe7685_01,
+N_A,ibe7685_02,
+N_A,ibe7685_03,
+N_A,ibe7689_01,
+N_A,ibe7689_02,
+N_A,ibe7689_03,
+N_A,ibe7691_01,
+N_A,ibe7691_02,
+N_A,ibe7691_03,
+N_A,ibe7964b_04,Geo Core Base Statistical Area (CBSA) Name
+N_A,ibe7964b_05,Geo Country Code
+N_A,ibe7964b_06,Geo Country Name
+N_A,ibe7964b_08,Geo Designated Marketing Area (DMA) Name
+N_A,ibe7964b_10,Geo FIPS County Name
+N_A,ibe7964b_14,Geo Minor Civil Division (MCD) Name
+N_A,ibe7964b_17,Geo Place Name
+N_A,ibe7964b_19,Geo Precision Level Name
+N_A,ibe8434_01,
+N_A,ibe8434_02,
+N_A,ibe8562_01,
+N_A,ibe8562_02,
+N_A,ibe8563_01,
+N_A,ibe8563_02,
+N_A,ibe8611_01,
+N_A,ibe8611_02,
+N_A,ibe8611_03,
+N_A,ibe8618_01,
+N_A,ibe8618_02,
+N_A,ibe8618_03,
+N_A,ibe8623_01,
+N_A,ibe8623_02,
+N_A,ibe8623_03,
+N_A,ibe8685_01,
+N_A,ibe8685_02,
+N_A,ibe8685_03,
+N_A,ibe8689_01,
+N_A,ibe8689_02,
+N_A,ibe8689_03,
+N_A,ibe8691_01,
+N_A,ibe8691_02,
+N_A,ibe8691_03,
+N_A,ibe8819_01,
+N_A,ibe8819_02,
+N_A,ibe8839_01,
+N_A,ibe8839_02,
+N_A,ibe9301,Dual Residency Indicator
+N_A,ibe9302_01,Dual Residency- Primary Address Street Number
+N_A,ibe9302_02,Dual Residency- Primary Address Pre-Directional
+N_A,ibe9302_03,Dual Residency- Primary Address Street Name
+N_A,ibe9302_04,Dual Residency- Primary Address Street Suffix
+N_A,ibe9302_05,Dual Residency- Primary Address Post Directional
+N_A,ibe9302_06,Dual Residency- Primary Address Unit Designator
+N_A,ibe9302_07,Dual Residency- Primary Address Secondary Number
+N_A,ibe9302_08,Dual Residency- Primary Address City
+N_A,ibe9302_09,Dual Residency- Primary Address State
+N_A,ibe9302_10,Dual Residency- Primary Address Zip Code
+N_A,ibe9302_11,Dual Residency- Primary Address Zip+4
+N_A,ibe9303_01,Dual Residency- Address 2 Street Number
+N_A,ibe9303_02,Dual Residency- Address 2 Pre-Directional
+N_A,ibe9303_03,Dual Residency- Address 2 Street Name
+N_A,ibe9303_04,Dual Residency- Address 2 Street Suffix
+N_A,ibe9303_05,Dual Residency- Address 2 Post Directional
+N_A,ibe9303_06,Dual Residency- Address 2 Unit Designator
+N_A,ibe9303_07,Dual Residency- Address 2 Secondary Number
+N_A,ibe9303_08,Dual Residency- Address 2 City
+N_A,ibe9303_09,Dual Residency- Address 2 State
+N_A,ibe9303_10,Dual Residency- Address 2 Zip Code
+N_A,ibe9303_11,Dual Residency- Address 2 Zip+4
+N_A,ibe9303_12,Dual Residency- Address 2 Sale Date
+N_A,ibe9303_13,Dual Residency- Address 2 Purchase Amount
+N_A,ibe9303_14,Dual Residency- Address 2 Dwelling Type
+N_A,ibe9303_15,Dual Residency- Address 2 Potential Investment Property
+N_A_A,customer_user_id,Customer User ID
+N_A_A,ibe9304_01,Dual Residency- Address 3 Street Number
+N_A_A,ibe9304_02,Dual Residency- Address 3 Pre-Directional
+N_A_A,ibe9304_03,Dual Residency- Address 3 Street Name
+N_A_A,ibe9304_04,Dual Residency- Address 3 Street Suffix
+N_A_A,ibe9304_05,Dual Residency- Address 3 Post Directional
+N_A_A,ibe9304_06,Dual Residency- Address 3 Unit Designator
+N_A_A,ibe9304_07,Dual Residency- Address 3 Secondary Number
+N_A_A,ibe9304_08,Dual Residency- Address 3 City
+N_A_A,ibe9304_09,Dual Residency- Address 3 State
+N_A_A,ibe9304_10,Dual Residency- Address 3 Zip Code
+N_A_A,ibe9304_11,Dual Residency- Address 3 Zip+4
+N_A_A,ibe9304_12,Dual Residency- Address 3 Sale Date
+N_A_A,ibe9304_13,Dual Residency- Address 3 Purchase Amount
+N_A_A,ibe9304_14,Dual Residency- Address 3 Dwelling Type
+N_A_A,ibe9304_15,Dual Residency- Address 3 Potential Investment Property
+N_A_A,ibe9305_01,Dual Residency- Address 4 Street Number
+N_A_A,ibe9305_02,Dual Residency- Address 4 Pre-Directional
+N_A_A,ibe9305_03,Dual Residency- Address 4 Street Name
+N_A_A,ibe9305_04,Dual Residency- Address 4 Street Suffix
+N_A_A,ibe9305_05,Dual Residency- Address 4 Post Directional
+N_A_A,ibe9305_06,Dual Residency- Address 4 Unit Designator
+N_A_A,ibe9305_07,Dual Residency- Address 4 Secondary Number
+N_A_A,ibe9305_08,Dual Residency- Address 4 City
+N_A_A,ibe9305_09,Dual Residency- Address 4 State
+N_A_A,ibe9305_10,Dual Residency- Address 4 Zip Code
+N_A_A,ibe9305_11,Dual Residency- Address 4 Zip+4
+N_A_A,ibe9305_12,Dual Residency- Address 4 Sale Date
+N_A_A,ibe9305_13,Dual Residency- Address 4 Purchase Amount
+N_A_A,ibe9305_14,Dual Residency- Address 4 Dwelling Type
+N_A_A,ibe9305_15,Dual Residency- Address 4 Potential Investment Property
+N_A_A,ibe9306_01,Dual Residency- Address 5 Street Number
+N_A_A,ibe9306_02,Dual Residency- Address 5 Pre-Directional
+N_A_A,ibe9306_03,Dual Residency- Address 5 Street Name
+N_A_A,ibe9306_04,Dual Residency- Address 5 Street Suffix
+N_A_A,ibe9306_05,Dual Residency- Address 5 Post Directional
+N_A_A,ibe9306_06,Dual Residency- Address 5 Unit Designator
+N_A_A,ibe9306_07,Dual Residency- Address 5 Secondary Number
+N_A_A,ibe9306_08,Dual Residency- Address 5 City
+N_A_A,ibe9306_09,Dual Residency- Address 5 State
+N_A_A,ibe9306_10,Dual Residency- Address 5 Zip Code
+N_A_A,ibe9306_11,Dual Residency- Address 5 Zip+4
+N_A_A,ibe9306_12,Dual Residency- Address 5 Sale Date
+N_A_A,ibe9306_13,Dual Residency- Address 5 Purchase Amount
+N_A_A,ibe9306_14,Dual Residency- Address 5 Dwelling Type
+N_A_A,ibe9306_15,Dual Residency- Address 5 Potential Investment Property
+N_A_A,ibe9567,InfoBase Positive Match Indicator - Person
+N_A_A,ibe9568,InfoBase Positive Match Indicator - Address
+N_A_A,ibe9569,InfoBase Positive Match Indicator - Household
+N_A_A,ibe9570,InfoBase Positive Match Indicator - Residency
