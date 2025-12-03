@@ -1,0 +1,17 @@
+# Example terraform.tfvars for associating resources to a collaboration
+# 
+# Step 1: Discover tables using:
+#   python3 scripts/discover-configured-tables.py --filter "part_" --profile flywheel-prod
+#
+# Step 2: Copy the output below and paste it here
+
+membership_id = "e50c6d1d-68a6-4aa8-9cad-df9a5a30bd90"
+
+# Paste the output from discover-configured-tables.py here:
+existing_configured_tables = {
+  # Example - replace with actual output from script
+  "ff9f75ec-7d9a-45d1-9918-1153cf51150a" = {
+    name = "part_ibe_04_a"
+  }
+}
+

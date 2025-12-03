@@ -1,0 +1,251 @@
+{
+  "Comment": "OMC Flywheel Database Refresh - 7-Step Process Orchestration",
+  "StartAt": "Step1_ParallelSplitJobs",
+  "States": {
+    "Step1_ParallelSplitJobs": {
+      "Type": "Parallel",
+      "ResultPath": "$.Step1Results",
+      "Branches": [
+        {
+          "StartAt": "Step1A_AddressableSplitAndPart",
+          "States": {
+            "Step1A_AddressableSplitAndPart": {
+              "Type": "Task",
+              "Resource": "arn:aws:states:::glue:startJobRun.sync",
+              "Parameters": {
+                "JobName.$": "$.Job1Name",
+                "Arguments.$": "$.Job1Arguments"
+              },
+              "Retry": [
+                {
+                  "ErrorEquals": ["States.TaskFailed"],
+                  "IntervalSeconds": 60,
+                  "MaxAttempts": 2,
+                  "BackoffRate": 2.0
+                }
+              ],
+              "End": true
+            }
+          }
+        },
+        {
+          "StartAt": "Step1B_InfobaseSplitAndPart",
+          "States": {
+            "Step1B_InfobaseSplitAndPart": {
+              "Type": "Task",
+              "Resource": "arn:aws:states:::glue:startJobRun.sync",
+              "Parameters": {
+                "JobName.$": "$.Job2Name",
+                "Arguments.$": "$.Job2Arguments"
+              },
+              "Retry": [
+                {
+                  "ErrorEquals": ["States.TaskFailed"],
+                  "IntervalSeconds": 60,
+                  "MaxAttempts": 2,
+                  "BackoffRate": 2.0
+                }
+              ],
+              "End": true
+            }
+          }
+        }
+      ],
+      "Catch": [
+        {
+          "ErrorEquals": ["States.ALL"],
+          "ResultPath": "$.error",
+          "Next": "NotifyFailure"
+        }
+      ],
+      "Next": "Step2_RegisterPartTables"
+    },
+    "Step2_RegisterPartTables": {
+      "Type": "Parallel",
+      "ResultPath": "$.Step2Results",
+      "Branches": [
+        {
+          "StartAt": "Step2A_RegisterAddressableIds",
+          "States": {
+            "Step2A_RegisterAddressableIds": {
+              "Type": "Task",
+              "Resource": "arn:aws:states:::glue:startJobRun.sync",
+              "Parameters": {
+                "JobName.$": "$.Job3Name",
+                "Arguments.$": "$.Job3AArguments"
+              },
+              "Retry": [
+                {
+                  "ErrorEquals": ["States.TaskFailed"],
+                  "IntervalSeconds": 30,
+                  "MaxAttempts": 2,
+                  "BackoffRate": 2.0
+                }
+              ],
+              "End": true
+            }
+          }
+        },
+        {
+          "StartAt": "Step2B_RegisterInfobaseAttributes",
+          "States": {
+            "Step2B_RegisterInfobaseAttributes": {
+              "Type": "Task",
+              "Resource": "arn:aws:states:::glue:startJobRun.sync",
+              "Parameters": {
+                "JobName.$": "$.Job3Name",
+                "Arguments.$": "$.Job3BArguments"
+              },
+              "Retry": [
+                {
+                  "ErrorEquals": ["States.TaskFailed"],
+                  "IntervalSeconds": 30,
+                  "MaxAttempts": 2,
+                  "BackoffRate": 2.0
+                }
+              ],
+              "End": true
+            }
+          }
+        }
+      ],
+      "Catch": [
+        {
+          "ErrorEquals": ["States.ALL"],
+          "ResultPath": "$.error",
+          "Next": "NotifyFailure"
+        }
+      ],
+      "Next": "Step3_PreparePartTables"
+    },
+    "Step3_PreparePartTables": {
+      "Type": "Task",
+      "Resource": "arn:aws:states:::glue:startJobRun.sync",
+      "ResultPath": "$.Step3Results",
+      "Parameters": {
+        "JobName.$": "$.Job4Name"
+      },
+      "Retry": [
+        {
+          "ErrorEquals": ["States.TaskFailed"],
+          "IntervalSeconds": 30,
+          "MaxAttempts": 2,
+          "BackoffRate": 2.0
+        }
+      ],
+      "Catch": [
+        {
+          "ErrorEquals": ["States.ALL"],
+          "ResultPath": "$.error",
+          "Next": "NotifyFailure"
+        }
+      ],
+      "Next": "Step4_CreateERTable"
+    },
+    "Step4_CreateERTable": {
+      "Type": "Task",
+      "Resource": "arn:aws:states:::glue:startJobRun.sync",
+      "ResultPath": "$.Step4Results",
+      "Parameters": {
+        "JobName.$": "$.Job5Name"
+      },
+      "Retry": [
+        {
+          "ErrorEquals": ["States.TaskFailed"],
+          "IntervalSeconds": 30,
+          "MaxAttempts": 2,
+          "BackoffRate": 2.0
+        }
+      ],
+      "Catch": [
+        {
+          "ErrorEquals": ["States.ALL"],
+          "ResultPath": "$.error",
+          "Next": "NotifyFailure"
+        }
+      ],
+      "Next": "Step5_ParallelReporting"
+    },
+    "Step5_ParallelReporting": {
+      "Type": "Parallel",
+      "ResultPath": "$.Step5Results",
+      "Branches": [
+        {
+          "StartAt": "Step5A_DataMonitorReport",
+          "States": {
+            "Step5A_DataMonitorReport": {
+              "Type": "Task",
+              "Resource": "arn:aws:states:::glue:startJobRun.sync",
+              "Parameters": {
+                "JobName.$": "$.Job6Name"
+              },
+              "Retry": [
+                {
+                  "ErrorEquals": ["States.TaskFailed"],
+                  "IntervalSeconds": 30,
+                  "MaxAttempts": 1,
+                  "BackoffRate": 2.0
+                }
+              ],
+              "End": true
+            }
+          }
+        },
+        {
+          "StartAt": "Step5B_CleanroomsReport",
+          "States": {
+            "Step5B_CleanroomsReport": {
+              "Type": "Task",
+              "Resource": "arn:aws:states:::glue:startJobRun.sync",
+              "Parameters": {
+                "JobName.$": "$.Job7Name"
+              },
+              "Retry": [
+                {
+                  "ErrorEquals": ["States.TaskFailed"],
+                  "IntervalSeconds": 30,
+                  "MaxAttempts": 1,
+                  "BackoffRate": 2.0
+                }
+              ],
+              "End": true
+            }
+          }
+        }
+      ],
+      "Catch": [
+        {
+          "ErrorEquals": ["States.ALL"],
+          "ResultPath": "$.error",
+          "Next": "NotifyFailure"
+        }
+      ],
+      "Next": "NotifySuccess"
+    },
+    "NotifySuccess": {
+      "Type": "Task",
+      "Resource": "arn:aws:states:::sns:publish",
+      "Parameters": {
+        "TopicArn.$": "$.SNSTopicArn",
+        "Subject": "✅ Database Refresh Completed Successfully",
+        "Message.$": "States.Format('Database refresh completed successfully!\\n\\nEnvironment: {}\\n\\nAll 7 steps completed:\\n1. Addressable IDs Split and Part\\n2. Infobase Split and Part\\n3. Register Part Tables (addressable_ids + infobase_attributes)\\n4. Prepare Part Tables\\n5. Create Part Addressable IDs ER Table\\n6. Generate Data Monitor Report\\n7. Generate Cleanrooms Report', $.Environment)"
+      },
+      "End": true
+    },
+    "NotifyFailure": {
+      "Type": "Task",
+      "Resource": "arn:aws:states:::sns:publish",
+      "Parameters": {
+        "TopicArn.$": "$.SNSTopicArn",
+        "Subject": "❌ Database Refresh Failed",
+        "Message.$": "States.Format('Database refresh failed!\\n\\nEnvironment: {}\\nError: {}\\n\\nPlease check the Step Functions console for details.', $.Environment, $.error.Error)"
+      },
+      "Next": "ExecutionFailed"
+    },
+    "ExecutionFailed": {
+      "Type": "Fail",
+      "Error": "JobExecutionFailed",
+      "Cause": "One or more Glue jobs failed during the database refresh process. Check the execution history for details."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Environment": "dev",
+  "Job1Name": "etl-omc-flywheel-dev-addressable-split-and-part",
+  "Job2Name": "etl-omc-flywheel-dev-infobase-split-and-part",
+  "Job3Name": "etl-omc-flywheel-dev-register-part-tables",
+  "Job4Name": "etl-omc-flywheel-dev-prepare-part-tables",
+  "Job5Name": "etl-omc-flywheel-dev-create-part-addressable-ids-er-table",
+  "Job6Name": "etl-omc-flywheel-dev-generate-data-monitor-report",
+  "Job7Name": "etl-omc-flywheel-dev-generate-cleanrooms-report",
+  "Job1Arguments": {
+    "--SNAPSHOT_DT": "_NONE_"
+  },
+  "Job2Arguments": {
+    "--SNAPSHOT_DT": "_NONE_"
+  },
+  "Job3AArguments": {
+    "--DATABASE": "omc_flywheel_dev_clean",
+    "--S3_ROOT": "s3://omc-flywheel-data-us-east-1-dev/omc_cleanroom_data/split_part/addressable_ids/",
+    "--TABLE_PREFIX": "part_",
+    "--MAX_COLS": "100"
+  },
+  "Job3BArguments": {
+    "--DATABASE": "omc_flywheel_dev_clean",
+    "--S3_ROOT": "s3://omc-flywheel-data-us-east-1-dev/omc_cleanroom_data/split_part/infobase_attributes/",
+    "--TABLE_PREFIX": "part_",
+    "--MAX_COLS": "100"
+  },
+  "SNSTopicArn": "arn:aws:sns:us-east-1:417649522250:omc-flywheel-dev-db-refresh-notifications"
+}
+
